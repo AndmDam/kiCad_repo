@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LM741_THT")(type "KiCad")(uri "/home/and-torr/Documents/git_workspace/kiCad_projects/libraries/mdam_created/LM741_THT")(options "")(descr ""))
+)
