@@ -1,0 +1,9 @@
+Actualizado LINE de #PWR03 a #PWR01.
+Actualizado NEUT de #PWR04 a #PWR02.
+Actualizado Earth de #PWR01 a #PWR03.
+Actualizado Earth de #PWR02 a #PWR04.
+Actualizado LED de D3 a D2.
+Actualizado LED de D2 a D3.
+Actualizado 4.7k de R4 a R3.
+Actualizado 4.7k de R3 a R4.
+Anotación completada.
