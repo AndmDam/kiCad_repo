@@ -1,0 +1,501 @@
+** Drc report for bufferx2_suma_amplificador_.kicad_pcb **
+** Created on 2026-02-05T01:19:49-0500 **
+
+** Found 95 DRC violations **
+[invalid_outline]: La placa tiene un contorno mal formado (no se han encontrado bordes en la capa Edge.Cuts)
+    Anulación local; error
+    @(0,0000 mm, 0,0000 mm): PCB
+[courtyards_overlap]: Solapamiento de patios
+    Regla: restricciones de configuración de placa para patios; error
+    @(215,5900 mm, 121,6900 mm): Huella C35
+    @(218,7900 mm, 124,9400 mm): Huella R41
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(149,9910 mm, 59,1600 mm): Pad PTH 3 [VCC+] de Q7
+    @(149,9910 mm, 60,4300 mm): Pad PTH 2 [Net-(Q7-B)] de Q7
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(144,2410 mm, 60,4500 mm): Pad PTH 2 [Net-(Q7-B)] de Q8
+    @(144,2410 mm, 59,1800 mm): Pad PTH 3 [VCC-] de Q8
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(144,2410 mm, 60,4500 mm): Pad PTH 2 [Net-(Q7-B)] de Q8
+    @(144,2410 mm, 59,1800 mm): Pad PTH 3 [VCC-] de Q8
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(199,7095 mm, 60,3105 mm): Pad PTH 2 [Net-(Q5-B)] de Q5
+    @(199,7095 mm, 59,0405 mm): Pad PTH 3 [VCC+] de Q5
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(199,7095 mm, 60,3105 mm): Pad PTH 2 [Net-(Q5-B)] de Q5
+    @(199,7095 mm, 59,0405 mm): Pad PTH 3 [VCC+] de Q5
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(193,8195 mm, 60,2905 mm): Pad PTH 2 [Net-(Q5-B)] de Q6
+    @(193,8195 mm, 59,0205 mm): Pad PTH 3 [VCC-] de Q6
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(193,8195 mm, 60,2905 mm): Pad PTH 2 [Net-(Q5-B)] de Q6
+    @(193,8195 mm, 59,0205 mm): Pad PTH 3 [VCC-] de Q6
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(152,4800 mm, 108,4100 mm): Pad PTH 2 [Net-(Q1-B)] de Q2
+    @(152,4800 mm, 109,6800 mm): Pad PTH 3 [VCC-] de Q2
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(152,4800 mm, 108,4100 mm): Pad PTH 2 [Net-(Q1-B)] de Q2
+    @(152,4800 mm, 109,6800 mm): Pad PTH 3 [VCC-] de Q2
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(146,0900 mm, 108,3900 mm): Pad PTH 2 [Net-(Q1-B)] de Q1
+    @(146,0900 mm, 109,6600 mm): Pad PTH 3 [VCC+] de Q1
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(146,0900 mm, 108,3900 mm): Pad PTH 2 [Net-(Q1-B)] de Q1
+    @(146,0900 mm, 109,6600 mm): Pad PTH 3 [VCC+] de Q1
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(202,5900 mm, 107,9200 mm): Pad PTH 2 [Net-(Q3-B)] de Q4
+    @(202,5900 mm, 109,1900 mm): Pad PTH 3 [VCC-] de Q4
+[clearance]: Infracción de margen (clase de nodo 'VCC-' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC-'; error
+    @(202,5900 mm, 107,9200 mm): Pad PTH 2 [Net-(Q3-B)] de Q4
+    @(202,5900 mm, 109,1900 mm): Pad PTH 3 [VCC-] de Q4
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(195,8400 mm, 107,9200 mm): Pad PTH 2 [Net-(Q3-B)] de Q3
+    @(195,8400 mm, 109,1900 mm): Pad PTH 3 [VCC+] de Q3
+[clearance]: Infracción de margen (clase de nodo 'VCC+' margen 0,3000 mm; real 0,2200 mm)
+    Regla: clase de nodo 'VCC+'; error
+    @(195,8400 mm, 107,9200 mm): Pad PTH 2 [Net-(Q3-B)] de Q3
+    @(195,8400 mm, 109,1900 mm): Pad PTH 3 [VCC+] de Q3
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(92,8750 mm, 27,7100 mm): Rectángulo of U9 on F.Silkscreen
+    @(80,0000 mm, 27,2500 mm): Reference field of U9
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(92,8750 mm, 27,7100 mm): Rectángulo of U9 on F.Silkscreen
+    @(94,0000 mm, 34,7500 mm): Reference field of C29
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(94,0000 mm, 34,7500 mm): Reference field of C29
+    @(92,8150 mm, 35,5000 mm): Segmento of U9 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(163,7200 mm, 86,0400 mm): Segmento of C40 on F.Silkscreen
+    @(168,8400 mm, 85,6600 mm): Reference field of C41
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(168,9600 mm, 85,0300 mm): Segmento of C41 on F.Silkscreen
+    @(168,8400 mm, 85,6600 mm): Reference field of C41
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(168,8400 mm, 85,6600 mm): Reference field of C41
+    @(168,9600 mm, 86,0400 mm): Segmento of C40 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(168,8400 mm, 85,6600 mm): Reference field of C41
+    @(169,7200 mm, 88,0300 mm): Segmento of C39 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(168,9600 mm, 85,0300 mm): Segmento of C41 on F.Silkscreen
+    @(163,3400 mm, 85,4100 mm): Reference field of C40
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(217,1100 mm, 145,3100 mm): Segmento of C31 on F.Silkscreen
+    @(211,9900 mm, 145,9400 mm): Reference field of C31
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(209,1900 mm, 132,4400 mm): Reference field of R29
+    @(217,2100 mm, 136,3700 mm): Rectángulo of R29 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(209,0900 mm, 122,6900 mm): Reference field of R41
+    @(217,0600 mm, 126,6600 mm): Rectángulo of R41 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(209,0900 mm, 127,4400 mm): Reference field of R37
+    @(217,1100 mm, 131,4100 mm): Rectángulo of R37 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(232,7500 mm, 96,0000 mm): Reference field of C2
+    @(235,2500 mm, 98,5000 mm): Círculo of C2 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(173,3800 mm, 88,1600 mm): Reference field of C39
+    @(172,9500 mm, 90,4200 mm): Rectángulo of U10 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(172,0950 mm, 89,3400 mm): Reference field of U10
+    @(172,4600 mm, 82,7900 mm): Segmento of C39 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(172,0950 mm, 89,3400 mm): Reference field of U10
+    @(172,4600 mm, 88,0300 mm): Segmento of C39 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(173,0100 mm, 87,9300 mm): Segmento of U10 on F.Silkscreen
+    @(173,3800 mm, 88,1600 mm): Reference field of C39
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(173,3800 mm, 88,1600 mm): Reference field of C39
+    @(173,0100 mm, 86,2800 mm): Segmento of U10 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(183,5900 mm, 112,9400 mm): Reference field of R13
+    @(182,2200 mm, 113,4700 mm): Rectángulo of R13 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(149,2900 mm, 49,4100 mm): Reference field of C10
+    @(149,6600 mm, 48,7800 mm): Segmento of C10 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(149,2900 mm, 49,4100 mm): Reference field of C10
+    @(150,8400 mm, 50,9100 mm): Reference field of C17
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(147,4700 mm, 50,2900 mm): Segmento of C17 on F.Silkscreen
+    @(150,8400 mm, 50,9100 mm): Reference field of C17
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(150,2100 mm, 50,2900 mm): Segmento of C17 on F.Silkscreen
+    @(150,8400 mm, 50,9100 mm): Reference field of C17
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(157,6900 mm, 34,6600 mm): Círculo of C24 on F.Silkscreen
+    @(155,4400 mm, 37,1600 mm): Reference field of C24
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(156,5900 mm, 50,8600 mm): Reference field of R19
+    @(155,3200 mm, 46,9400 mm): Rectángulo of R27 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(157,4400 mm, 41,9100 mm): Círculo of C28 on F.Silkscreen
+    @(155,1900 mm, 44,4100 mm): Reference field of C28
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(186,6595 mm, 40,5005 mm): Reference field of R39
+    @(178,6895 mm, 36,5305 mm): Rectángulo of R39 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(186,7595 mm, 35,8005 mm): Reference field of R31
+    @(178,8395 mm, 31,7305 mm): Rectángulo of R31 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(205,0895 mm, 46,5705 mm): Rectángulo of R25 on F.Silkscreen
+    @(213,1095 mm, 50,5405 mm): Reference field of R25
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(214,3795 mm, 54,9705 mm): Rectángulo of R17 on F.Silkscreen
+    @(213,1595 mm, 55,5505 mm): Reference field of R17
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(196,9895 mm, 50,3305 mm): Segmento of C15 on F.Silkscreen
+    @(200,3595 mm, 50,4505 mm): Reference field of C15
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(199,7295 mm, 50,3305 mm): Segmento of C15 on F.Silkscreen
+    @(200,3595 mm, 50,4505 mm): Reference field of C15
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(186,7095 mm, 45,7505 mm): Reference field of R43
+    @(178,7395 mm, 41,7805 mm): Rectángulo of R43 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(193,3095 mm, 50,4505 mm): Reference field of C16
+    @(193,8395 mm, 55,5705 mm): Segmento of C16 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(193,3095 mm, 50,4505 mm): Reference field of C16
+    @(193,8395 mm, 50,3305 mm): Segmento of C16 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(214,6295 mm, 30,2205 mm): Rectángulo of R18 on F.Silkscreen
+    @(207,1544 mm, 30,5405 mm): Reference field of C23
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(193,1349 mm, 124,1900 mm): Reference field of C25
+    @(191,0900 mm, 126,6900 mm): Círculo of C25 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(194,2600 mm, 122,9250 mm): Rectángulo of U4 on F.Silkscreen
+    @(193,1349 mm, 124,1900 mm): Reference field of C25
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(196,7800 mm, 119,7200 mm): Segmento of C7 on F.Silkscreen
+    @(199,4000 mm, 119,3400 mm): Reference field of C7
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(189,8200 mm, 156,2500 mm): Reference field of C20
+    @(204,5350 mm, 153,0500 mm): Rectángulo of U8 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(189,8200 mm, 156,2500 mm): Reference field of C20
+    @(191,1450 mm, 155,5400 mm): Segmento of U8 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(189,8200 mm, 156,2500 mm): Reference field of C20
+    @(190,6200 mm, 155,6200 mm): Segmento of C20 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(189,8200 mm, 156,2500 mm): Reference field of C20
+    @(190,6200 mm, 152,8800 mm): Segmento of C20 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(211,8700 mm, 145,3100 mm): Segmento of C31 on F.Silkscreen
+    @(211,9900 mm, 145,9400 mm): Reference field of C31
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(192,8400 mm, 131,4400 mm): Reference field of C21
+    @(191,0900 mm, 133,9400 mm): Círculo of C21 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(158,9949 mm, 122,6600 mm): Reference field of R42
+    @(167,0149 mm, 126,6300 mm): Rectángulo of R42 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(191,4600 mm, 121,9100 mm): Rectángulo of R21 on F.Silkscreen
+    @(183,5900 mm, 117,9400 mm): Reference field of R21
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(159,0449 mm, 132,4100 mm): Reference field of R30
+    @(167,0149 mm, 136,3800 mm): Rectángulo of R30 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(159,0449 mm, 137,9100 mm): Reference field of R34
+    @(157,7749 mm, 138,4400 mm): Rectángulo of R34 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(166,9149 mm, 145,0300 mm): Segmento of C32 on F.Silkscreen
+    @(161,7949 mm, 145,6600 mm): Reference field of C32
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(161,6749 mm, 145,0300 mm): Segmento of C32 on F.Silkscreen
+    @(161,7949 mm, 145,6600 mm): Reference field of C32
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(143,7949 mm, 135,8651 mm): Reference field of C22
+    @(144,2149 mm, 122,8850 mm): Rectángulo of U5 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(143,7949 mm, 135,8651 mm): Reference field of C22
+    @(141,0449 mm, 133,6151 mm): Círculo of C22 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(143,7949 mm, 129,6151 mm): Reference field of C26
+    @(144,2149 mm, 122,8850 mm): Rectángulo of U5 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(143,7949 mm, 129,6151 mm): Reference field of C26
+    @(141,0449 mm, 127,6151 mm): Círculo of C26 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(158,9849 mm, 127,4100 mm): Reference field of R38
+    @(167,0149 mm, 131,3800 mm): Rectángulo of R38 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(149,2949 mm, 119,1600 mm): Reference field of C8
+    @(148,9149 mm, 118,5300 mm): Segmento of C13 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(149,2949 mm, 119,1600 mm): Reference field of C8
+    @(148,9149 mm, 113,2900 mm): Segmento of C13 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(149,2949 mm, 119,1600 mm): Reference field of C8
+    @(152,4149 mm, 118,5300 mm): Segmento of C14 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(149,2949 mm, 119,1600 mm): Reference field of C8
+    @(149,6749 mm, 118,5300 mm): Segmento of C14 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(152,4149 mm, 113,2900 mm): Segmento of C14 on F.Silkscreen
+    @(153,0449 mm, 118,4100 mm): Reference field of C14
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(80,7500 mm, 105,3500 mm): Reference field of R6
+    @(84,7200 mm, 102,1300 mm): Rectángulo of R7 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(80,7500 mm, 105,3500 mm): Reference field of R6
+    @(80,2200 mm, 96,9800 mm): Rectángulo of R6 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(80,2200 mm, 96,9800 mm): Rectángulo of R6 on F.Silkscreen
+    @(76,2500 mm, 103,0000 mm): Reference field of R5
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(72,2800 mm, 103,7200 mm): Rectángulo of R5 on F.Silkscreen
+    @(76,2500 mm, 103,0000 mm): Reference field of R5
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(72,2800 mm, 103,7200 mm): Rectángulo of R5 on F.Silkscreen
+    @(71,7500 mm, 100,5000 mm): Reference field of R4
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(72,0000 mm, 84,4000 mm): Reference field of R1
+    @(72,5300 mm, 85,1200 mm): Rectángulo of R1 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(66,7500 mm, 92,8000 mm): Reference field of R3
+    @(62,7800 mm, 93,5200 mm): Rectángulo of R3 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(71,0000 mm, 68,7500 mm): Reference field of R46
+    @(69,5300 mm, 64,7800 mm): Rectángulo of R45 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(69,6300 mm, 69,2800 mm): Rectángulo of R46 on F.Silkscreen
+    @(71,0000 mm, 68,7500 mm): Reference field of R46
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(155,6900 mm, 20,1600 mm): Rectángulo en B.Silkscreen
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(155,6400 mm, 38,7100 mm): Rectángulo en B.Silkscreen
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(205,6095 mm, 19,5005 mm): Rectángulo en B.Silkscreen
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(205,6095 mm, 38,5005 mm): Rectángulo en B.Silkscreen
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(125,3400 mm, 131,4100 mm): Rectángulo en B.Silkscreen
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(125,3400 mm, 113,1600 mm): Rectángulo en B.Silkscreen
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(175,0900 mm, 131,6500 mm): Rectángulo en B.Silkscreen
+[track_dangling]: La pista tiene un lado no conectado
+    Anulación local; warning
+    @(119,2840 mm, 26,4193 mm): Pista [SDA_fine_r3] en (F.Cu), longitud 0,0071 mm
+
+** Found 30 unconnected pads **
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(234,2500 mm, 98,5000 mm): Pad PTH 1 [GND3] de C2
+    @(236,2500 mm, 86,0000 mm): Pad PTH 2 [GND3] de J17
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(236,2500 mm, 86,0000 mm): Pad PTH 2 [GND3] de J17
+    @(234,2500 mm, 74,5000 mm): Pad PTH 2 [GND3] de C1
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(93,2590 mm, 35,2590 mm): Pista [VCC+] en (F.Cu), longitud 2,1086 mm
+    @(148,2900 mm, 38,4600 mm): Pista [VCC+] en (F.Cu), longitud 8,9500 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(167,5900 mm, 87,4100 mm): Pista [VCC+] en (F.Cu), longitud 2,7500 mm
+    @(146,0900 mm, 109,6600 mm): Pad PTH 3 [VCC+] de Q1
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(167,5900 mm, 87,4100 mm): Pista [VCC+] en (F.Cu), longitud 2,7500 mm
+    @(149,9910 mm, 59,1600 mm): Pista [VCC+] en (F.Cu), longitud 0,4950 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(180,1650 mm, 86,6600 mm): Pista [VCC+] en (F.Cu), longitud 3,4365 mm
+    @(195,8400 mm, 115,4000 mm): Pista [VCC+] en (F.Cu), longitud 6,2100 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(199,8605 mm, 58,8895 mm): Pista [VCC+] en (F.Cu), longitud 0,2135 mm
+    @(171,0900 mm, 86,6600 mm): Pista [VCC+] en (F.Cu), longitud 9,0750 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(199,0800 mm, 162,0000 mm): Pista [VCC+] en (F.Cu), longitud 3,5355 mm
+    @(195,5900 mm, 132,5700 mm): Pista [VCC+] en (F.Cu), longitud 3,6204 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(236,2500 mm, 74,5000 mm): Pista [VCC+] en (F.Cu), longitud 6,5000 mm
+    @(199,8605 mm, 53,2015 mm): Pista [VCC+] en (F.Cu), longitud 5,6880 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(145,7900 mm, 38,7400 mm): Pista [VCC-] en (F.Cu), longitud 3,8184 mm
+    @(82,3400 mm, 29,0400 mm): Pista [VCC-] en (F.Cu), longitud 4,8800 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(152,5900 mm, 109,9100 mm): Pista [VCC-] en (F.Cu), longitud 0,3536 mm
+    @(167,5900 mm, 83,6600 mm): Pista [VCC-] en (F.Cu), longitud 3,0000 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(167,5900 mm, 83,6600 mm): Pista [VCC-] en (F.Cu), longitud 3,0000 mm
+    @(144,2410 mm, 59,1800 mm): Pista [VCC-] en (F.Cu), longitud 0,4964 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(182,5550 mm, 81,4300 mm): Pista [VCC-] en (F.Cu), longitud 0,0566 mm
+    @(193,7085 mm, 58,9095 mm): Pista [VCC-] en (F.Cu), longitud 0,1570 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(202,5900 mm, 109,1900 mm): Pad PTH 3 [VCC-] de Q4
+    @(179,9050 mm, 84,1600 mm): Pista [VCC-] en (F.Cu), longitud 3,8042 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(202,5900 mm, 109,1900 mm): Pad PTH 3 [VCC-] de Q4
+    @(236,2500 mm, 98,5000 mm): Pista [VCC-] en (F.Cu), longitud 7,5000 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(203,2100 mm, 132,5700 mm): Pista [VCC-] en (F.Cu), longitud 3,6204 mm
+    @(194,0000 mm, 154,3800 mm): Pista [VCC-] en (F.Cu), longitud 4,6200 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(165,0900 mm, 83,6600 mm): Pad PTH 1 [GND2] de C41
+    @(165,0900 mm, 87,4100 mm): Pad PTH 2 [GND2] de C40
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(80,5000 mm, 66,5000 mm): Pista [+3.3V] en (F.Cu), longitud 4,4000 mm
+    @(62,9200 mm, 46,2500 mm): Pad PTH 1 [+3.3V] de J3
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(95,4200 mm, 57,5000 mm): Pad PTH 5 [+3.3V] de J2
+    @(85,7800 mm, 66,5000 mm): Pista [+3.3V] en (F.Cu), longitud 2,5597 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(126,3000 mm, 94,5900 mm): Pad PTH 1 [+3.3V] de J4
+    @(127,3400 mm, 125,3200 mm): Pista [+3.3V] en (F.Cu), longitud 2,2500 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(126,3000 mm, 94,5900 mm): Pad PTH 1 [+3.3V] de J4
+    @(95,4200 mm, 57,5000 mm): Pad PTH 5 [+3.3V] de J2
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(126,3000 mm, 94,5900 mm): Pad PTH 1 [+3.3V] de J4
+    @(169,3900 mm, 43,2500 mm): Pista [+3.3V] en (F.Cu), longitud 6,1532 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(134,0000 mm, 155,2500 mm): Pad PTH 1 [+3.3V] de J1
+    @(131,7890 mm, 140,7110 mm): Pista [+3.3V] en (F.Cu), longitud 4,0432 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(177,0900 mm, 143,8100 mm): Pista [+3.3V] en (F.Cu), longitud 0,8713 mm
+    @(134,0000 mm, 155,2500 mm): Pad PTH 1 [+3.3V] de J1
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(214,5900 mm, 39,6600 mm): Pista [+3.3V] en (F.Cu), longitud 12,2500 mm
+    @(167,7500 mm, 25,1200 mm): Pista [+3.3V] en (F.Cu), longitud 1,6900 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(62,7500 mm, 124,5000 mm): Pista [+10V] en (F.Cu), longitud 10,1300 mm
+    @(68,9350 mm, 117,5250 mm): Pad PTH 4 [+10V] de U1
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(63,7500 mm, 66,5000 mm): Pista [Net-(J6-Pin_9)] en (F.Cu), longitud 4,0500 mm
+    @(57,2500 mm, 66,5000 mm): Pista [Net-(J6-Pin_9)] en (F.Cu), longitud 2,1227 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(63,7500 mm, 71,0000 mm): Pista [Net-(J6-Pin_10)] en (F.Cu), longitud 4,1500 mm
+    @(58,7510 mm, 69,4990 mm): Pista [Net-(J6-Pin_10)] en (F.Cu), longitud 3,6207 mm
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(87,4200 mm, 29,0400 mm): Pad PTH 2 [vbias] de U9
+    @(84,8800 mm, 36,6600 mm): Pad PTH 6 [vbias] de U9
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error
+    @(88,7750 mm, 25,2500 mm): Pad PTH 1 [vbias] de J18
+    @(87,4200 mm, 29,0400 mm): Pad PTH 2 [vbias] de U9
+
+** Found 0 Footprint errors **
+
+** End of Report **

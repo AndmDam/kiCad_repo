@@ -1,0 +1,1587 @@
+Info: Procesando el símbolo 'C40:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C29:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'R43:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C30:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'R42:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C31:'.
+Info: Procesando el símbolo 'C32:'.
+Info: Procesando el símbolo 'C33:'.
+Info: Procesando el símbolo 'C34:'.
+Info: Procesando el símbolo 'C35:'.
+Info: Procesando el símbolo 'C36:'.
+Info: Procesando el símbolo 'C37:'.
+Info: Procesando el símbolo 'C38:'.
+Info: Procesando el símbolo 'R41:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C39:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C28:'.
+Info: Procesando el símbolo 'R40:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C41:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'R39:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D1:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R38:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D2:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R37:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D3:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R36:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D4:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R35:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D5:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R34:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'U1:Package_DIP:DIP-4_W7.62mm'.
+Info: Procesando el símbolo 'C10:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U6:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C11:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C12:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U5:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C13:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C14:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C15:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U4:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'U3:'.
+Info: Procesando el símbolo 'C16:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U2:Package_DIP:DIP-4_W7.62mm'.
+Info: Procesando el símbolo 'C17:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'J1:Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'C18:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C19:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'SW2:Button_Switch_THT:SW_PUSH_6mm_H8mm'.
+Info: Procesando el símbolo 'C20:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'SW1:Button_Switch_THT:SW_PUSH_6mm_H8mm'.
+Info: Procesando el símbolo 'C21:'.
+Info: Procesando el símbolo 'C22:'.
+Info: Procesando el símbolo 'R44:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C23:'.
+Info: Procesando el símbolo 'C24:'.
+Info: Procesando el símbolo 'C25:'.
+Info: Procesando el símbolo 'C26:'.
+Info: Procesando el símbolo 'C27:'.
+Info: Procesando el símbolo 'R4:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R14:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R13:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J11:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R12:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J12:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R9:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R8:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J13:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R7:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J14:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R6:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R5:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J15:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J10:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J16:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R3:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q8:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'BZ1:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q7:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q6:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q5:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'J6:Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R33:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R32:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J2:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R31:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J3:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R30:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R29:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J4:Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R28:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R27:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J5:Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R26:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R25:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Número de avisos: 0, errores: 17.
+Info: Procesando el símbolo 'R24:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R23:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R22:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R21:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J7:Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R20:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R19:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R18:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J8:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R17:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R16:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J9:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R15:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Procesando el símbolo 'C8:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U9:Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C7:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'BZ4:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'C2:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Procesando el símbolo 'C9:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'BZ2:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'U7:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'U8:Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'BZ3:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'U10:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Añadir red Net-(U6B-+).
+Actualizados R18 campos.
+Asociación de símbolos R18 actualizada de  a /15ad231c-f08d-4299-9bad-3ed3d1ed4cde.
+Valor R18 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R18.
+Indicador de referencia cambiado de REF** a R20.
+Añadir R18 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir red unconnected-(U9-NULL-Pad1).
+U9 pin 1 conectado a unconnected-(U9-NULL-Pad1).
+R17 pin 2 conectado a Net-(U6B-+).
+Nombre de hoja R17 actualizado a '/'.
+R17 pin 1 conectado a Net-(J12-Pin_1).
+Valor R17 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Filtros de huella R17 actualizados a 'R_*'.
+Indicador de referencia cambiado de REF** a R17.
+Asociación de símbolos R17 actualizada de  a /a2a6bce3-77cd-4775-bcb8-6ca0d0a9d95f.
+Actualizados R17 campos.
+Archivo de hoja R17 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Asociación de símbolos R19 actualizada de  a /c3475b15-690b-4945-ab2f-06538c3d01b3.
+Nombre de hoja R20 actualizado a '/'.
+Añadir R20 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U9 pin 8 conectado a unconnected-(U9-NC-Pad8).
+R19 pin 2 conectado a Net-(U7B-+).
+Añadir red Net-(U7B-+).
+R19 pin 1 conectado a Net-(J14-Pin_1).
+Filtros de huella R19 actualizados a 'R_*'.
+Archivo de hoja R19 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R19 actualizado a '/'.
+Actualizados R19 campos.
+Nombre de hoja R18 actualizado a '/'.
+Valor R19 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R19.
+Añadir R19 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U9 pin 3 conectado a DGND.
+R18 pin 2 conectado a Net-(U6A-+).
+Añadir red Net-(U6A-+).
+R18 pin 1 conectado a Net-(J13-Pin_1).
+Filtros de huella R18 actualizados a 'R_*'.
+Archivo de hoja R18 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R14 actualizado a '/'.
+Asociación de símbolos R15 actualizada de  a /04e769f2-5945-4821-b5ee-7b6050294ad0.
+Valor R15 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R15.
+Añadir R15 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U9 pin 6 conectado a SAMPLE.
+R14 pin 1 conectado a Net-(J16-Pin_1).
+R14 pin 2 conectado a Net-(U4A-+).
+Añadir red Net-(U4A-+).
+Filtros de huella R14 actualizados a 'R_*'.
+Archivo de hoja R14 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Actualizados R15 campos.
+Actualizados R14 campos.
+Asociación de símbolos R14 actualizada de  a /a4cb57a3-0ae8-4dd1-b1ec-8c054a7a0671.
+Valor R14 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R14.
+Añadir R14 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+R13 pin 2 conectado a Net-(U4B-+).
+Añadir red Net-(U4B-+).
+R13 pin 1 conectado a Net-(J9-Pin_1).
+Filtros de huella R13 actualizados a 'R_*'.
+Archivo de hoja R13 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Indicador de referencia cambiado de REF** a R16.
+U9 pin 4 conectado a Net-(U9-V-).
+R16 pin 2 conectado a Net-(U5A-+).
+Añadir red Net-(U5A-+).
+R16 pin 1 conectado a Net-(J11-Pin_1).
+Filtros de huella R16 actualizados a 'R_*'.
+Archivo de hoja R16 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R16 actualizado a '/'.
+Actualizados R16 campos.
+Asociación de símbolos R16 actualizada de  a /308732ab-f33b-461f-9912-e879980ba511.
+Valor R16 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Añadir R17 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir R16 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir red unconnected-(U9-NULL-Pad5).
+R15 pin 1 conectado a Net-(J10-Pin_1).
+R15 pin 2 conectado a Net-(U5B-+).
+Añadir red Net-(U5B-+).
+Filtros de huella R15 actualizados a 'R_*'.
+Archivo de hoja R15 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+U9 pin 5 conectado a unconnected-(U9-NULL-Pad5).
+Nombre de hoja R15 actualizado a '/'.
+Archivo de hoja R24 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R25 actualizado a '/'.
+Actualizados R25 campos.
+Asociación de símbolos R25 actualizada de  a /c67644bb-79a4-49a9-a281-6229ec4c06f4.
+Valor R25 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R25.
+Añadir R25 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Archivo de hoja U9 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+R24 pin 2 conectado a Net-(U5C--).
+R24 pin 1 conectado a Net-(U5A--).
+Añadir red Net-(U5A--).
+Filtros de huella R24 actualizados a 'R_*'.
+Archivo de hoja R25 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R24 actualizado a '/'.
+Actualizados R24 campos.
+Asociación de símbolos R24 actualizada de  a /ce49447a-679d-4de9-8899-ff6a049cf870.
+Valor R24 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 500k.
+Indicador de referencia cambiado de REF** a R24.
+Añadir R24 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Filtros de huella U9 actualizados a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+R23 pin 2 conectado a Net-(U5C--).
+Añadir red Net-(U5C--).
+R23 pin 1 conectado a Net-(U5B--).
+Actualizados R26 campos.
+Indicador de referencia cambiado de REF** a R27.
+Añadir R27 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Asociación de símbolos U9 actualizada de  a /516f194d-716e-478f-8468-6af5eddd320b.
+R26 pin 2 conectado a Net-(U6C--).
+R26 pin 1 conectado a Net-(U6A--).
+Añadir red Net-(U6A--).
+Actualizados U9 campos.
+Filtros de huella R26 actualizados a 'R_*'.
+Archivo de hoja R26 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R26 actualizado a '/'.
+Añadir red Net-(U5B--).
+Asociación de símbolos R26 actualizada de  a /79183551-8262-4693-b2b0-9b8938f24c54.
+Valor R26 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 500k.
+Indicador de referencia cambiado de REF** a R26.
+Añadir R26 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Nombre de hoja U9 actualizado a '/'.
+R25 pin 1 conectado a Net-(U6B--).
+Añadir red Net-(U6B--).
+R25 pin 2 conectado a Net-(U6C--).
+Añadir red Net-(U6C--).
+Filtros de huella R25 actualizados a 'R_*'.
+Añadir R21 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir red Net-(U4B--).
+R21 pin 2 conectado a Net-(U4C--).
+Añadir red Net-(U4C--).
+Filtros de huella R21 actualizados a 'R_*'.
+Archivo de hoja R21 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R21 actualizado a '/'.
+Actualizados R21 campos.
+Asociación de símbolos R21 actualizada de  a /62226fec-06b7-4ace-b555-026da36f431f.
+Valor R21 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R21.
+R21 pin 1 conectado a Net-(U4B--).
+U9 pin 2 conectado a SAMPLE.
+R20 pin 2 conectado a Net-(U7A-+).
+Añadir red Net-(U7A-+).
+R20 pin 1 conectado a Net-(J15-Pin_1).
+Añadir red unconnected-(U9-NC-Pad8).
+Filtros de huella R20 actualizados a 'R_*'.
+Archivo de hoja R20 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Asociación de símbolos R13 actualizada de  a /c70e2fe7-86d6-45e8-90c6-74a1875cd963.
+Actualizados R20 campos.
+Asociación de símbolos R20 actualizada de  a /7e88f3fb-04fb-466d-8d13-8be49c614b2c.
+R22 pin 1 conectado a Net-(U4A--).
+Filtros de huella R23 actualizados a 'R_*'.
+Archivo de hoja R23 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R23 actualizado a '/'.
+Actualizados R23 campos.
+Asociación de símbolos R23 actualizada de  a /d0e41a09-c4d0-44e6-b3be-7d68296a8e41.
+Valor R23 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R23.
+Añadir R23 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U9 pin 7 conectado a Net-(U9-V+).
+R22 pin 2 conectado a Net-(U4C--).
+Valor R20 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Añadir red Net-(U4A--).
+Filtros de huella R22 actualizados a 'R_*'.
+Archivo de hoja R22 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R22 actualizado a '/'.
+Actualizados R22 campos.
+Asociación de símbolos R22 actualizada de  a /5220e179-3a79-4d03-a2be-2780c185a6ad.
+Valor R22 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 500k.
+Indicador de referencia cambiado de REF** a R22.
+Añadir R22 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir red SAMPLE.
+Nombre de hoja R1 actualizado a '/'.
+Actualizados R2 campos.
+Asociación de símbolos R2 actualizada de  a /3163b1c6-fc6e-4a5a-888c-a08fb8996f41.
+Valor R2 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 220.
+Indicador de referencia cambiado de REF** a R2.
+Añadir R2 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U10 pin 8 conectado a Net-(Q5-B).
+R1 pin 1 conectado a Net-(D1-A).
+R1 pin 2 conectado a Net-(J7-Pin_2).
+Filtros de huella R1 actualizados a 'R_*'.
+Archivo de hoja R1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+U10 pin 12 conectado a Net-(U10D-+).
+Nombre de hoja R2 actualizado a '/'.
+Actualizados R1 campos.
+Asociación de símbolos R1 actualizada de  a /432ae66b-10ce-4317-a947-e3cf211e772c.
+Valor R1 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 220.
+Indicador de referencia cambiado de REF** a R1.
+Añadir R1 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U10 pin 10 conectado a Net-(U10C-+).
+Q8 pin 2 conectado a Net-(Q7-B).
+Q8 pin 1 conectado a Net-(BZ4-+).
+Q8 pin 3 conectado a VCC-.
+Filtros de huella Q8 actualizados a 'TO?92*'.
+Actualizados R3 campos.
+Actualizados R4 campos.
+Asociación de símbolos R4 actualizada de  a /76cb8a35-92e5-4592-a927-3fd0a7d0ab51.
+Valor R4 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 100.
+Indicador de referencia cambiado de REF** a R4.
+Añadir R4 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+R3 pin 1 conectado a Net-(D3-A).
+R3 pin 2 conectado a Net-(J6-Pin_8).
+Filtros de huella R3 actualizados a 'R_*'.
+Archivo de hoja R3 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R3 actualizado a '/'.
+Archivo de hoja Q8 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Asociación de símbolos R3 actualizada de  a /de3965e2-324d-43a0-a521-df8c6eb62cf8.
+Valor R3 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 150.
+Indicador de referencia cambiado de REF** a R3.
+Añadir R3 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U10 pin 1 conectado a Net-(Q1-B).
+U10 pin 4 conectado a VCC+.
+R2 pin 2 conectado a Net-(J6-Pin_7).
+R2 pin 1 conectado a Net-(D2-A).
+Filtros de huella R2 actualizados a 'R_*'.
+Archivo de hoja R2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Valor Q6 cambiado de TO-92_Inline a 2N3906.
+U10 pin 3 conectado a Net-(U10A-+).
+Q6 pin 1 conectado a Net-(BZ3-+).
+Q6 pin 3 conectado a VCC-.
+
+Q6 pin 2 conectado a Net-(Q5-B).
+Filtros de huella Q6 actualizados a 'TO?92*'.
+Archivo de hoja Q6 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja Q6 actualizado a '/'.
+Actualizados Q6 campos.
+Asociación de símbolos Q6 actualizada de  a /10700539-c547-48b2-b174-ad3345c16b42.
+Añadir Q7 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+Indicador de referencia cambiado de REF** a Q6.
+Añadir Q6 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+
+Q5 pin 1 conectado a Net-(BZ3-+).
+Q2 pin 1 conectado a Net-(BZ1-+).
+Q5 pin 2 conectado a Net-(Q5-B).
+Añadir red Net-(Q5-B).
+Q5 pin 3 conectado a VCC+.
+Filtros de huella Q5 actualizados a 'TO?92*'.
+Archivo de hoja Q5 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+U10 pin 13 conectado a Net-(BZ4-+).
+U10 pin 2 conectado a Net-(BZ1-+).
+Nombre de hoja Q8 actualizado a '/'.
+Actualizados Q8 campos.
+Asociación de símbolos Q8 actualizada de  a /73982968-5c98-45af-b424-11cfb6eca8fa.
+Valor Q8 cambiado de TO-92_Inline a 2N3906.
+Indicador de referencia cambiado de REF** a Q8.
+Añadir Q8 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+U10 pin 9 conectado a Net-(BZ3-+).
+Q7 pin 2 conectado a Net-(Q7-B).
+Añadir red Net-(Q7-B).
+Nombre de hoja R4 actualizado a '/'.
+Q7 pin 1 conectado a Net-(BZ4-+).
+U10 pin 5 conectado a Net-(U10B-+).
+Q7 pin 3 conectado a VCC+.
+Filtros de huella Q7 actualizados a 'TO?92*'.
+Archivo de hoja Q7 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja Q7 actualizado a '/'.
+Actualizados Q7 campos.
+Asociación de símbolos Q7 actualizada de  a /e0afc85c-46bc-4d43-85d5-394d580ff3e2.
+Valor Q7 cambiado de TO-92_Inline a 2N3904.
+Indicador de referencia cambiado de REF** a Q7.
+Actualizados U10 campos.
+R9 pin 2 conectado a Net-(J8-Pin_2).
+Filtros de huella R9 actualizados a 'R_*'.
+Archivo de hoja R9 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R9 actualizado a '/'.
+Actualizados R9 campos.
+Asociación de símbolos R9 actualizada de  a /f71760c9-8cd8-4386-bda0-756bf103138b.
+Valor R9 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R9.
+Asociación de símbolos U10 actualizada de  a /c72fc28f-7e33-43ed-bfb1-24ec24046b09.
+Añadir R9 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir red Net-(R9-Pad1).
+R8 pin 1 conectado a Net-(R8-Pad1).
+Añadir red Net-(R8-Pad1).
+R8 pin 2 conectado a Net-(J8-Pin_1).
+Filtros de huella R8 actualizados a 'R_*'.
+Archivo de hoja R8 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R8 actualizado a '/'.
+Actualizados R8 campos.
+Asociación de símbolos R8 actualizada de  a /6aa4cf7e-9fb6-47d6-95f2-8873d3ed6bac.
+Valor R8 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R8.
+Filtros de huella R12 actualizados a 'R_*'.
+Actualizados R13 campos.
+Archivo de hoja R27 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Valor R13 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 1k.
+Indicador de referencia cambiado de REF** a R13.
+Añadir R13 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir U10 (huella 'Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket').
+R12 pin 2 conectado a signal_out.
+Añadir red signal_out.
+R12 pin 1 conectado a Net-(U8--).
+Añadir red Net-(U8--).
+Añadir R8 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Indicador de referencia cambiado de REF** a U10.
+Archivo de hoja R12 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R12 actualizado a '/'.
+Actualizados R12 campos.
+Asociación de símbolos R12 actualizada de  a /6c0aafd6-39d7-400f-8a51-47455498a055.
+Valor R12 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 47k.
+Indicador de referencia cambiado de REF** a R12.
+Añadir R12 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Valor U10 cambiado de CERDIP-14_W7.62mm_SideBrazed_Socket a TL074.
+R9 pin 1 conectado a Net-(R9-Pad1).
+Actualizados R5 campos.
+Valor R6 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 220.
+Indicador de referencia cambiado de REF** a R6.
+U10 pin 7 conectado a Net-(Q3-B).
+Añadir R6 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U10 pin 14 conectado a Net-(Q7-B).
+R5 pin 1 conectado a Net-(D5-A).
+R5 pin 2 conectado a Net-(J6-Pin_12).
+Filtros de huella R5 actualizados a 'R_*'.
+Archivo de hoja R5 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R5 actualizado a '/'.
+Asociación de símbolos R6 actualizada de  a /f0ed8f6d-4c1d-45a7-877e-cd4ce7766595.
+Asociación de símbolos R5 actualizada de  a /62c69ad0-dfa7-4e79-983e-82a53bee9a06.
+Valor R5 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 100.
+Indicador de referencia cambiado de REF** a R5.
+Añadir R5 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U10 pin 6 conectado a Net-(BZ2-+).
+R4 pin 1 conectado a Net-(D4-A).
+R4 pin 2 conectado a Net-(J6-Pin_11).
+Filtros de huella R4 actualizados a 'R_*'.
+U10 pin 11 conectado a VCC-.
+Archivo de hoja R4 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Valor R7 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 220.
+Nombre de hoja U10 actualizado a '/'.
+R7 pin 1 conectado a opto2.
+R7 pin 2 conectado a Net-(R7-Pad2).
+Añadir red Net-(R7-Pad2).
+Filtros de huella R7 actualizados a 'R_*'.
+Archivo de hoja U10 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Archivo de hoja R7 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R7 actualizado a '/'.
+Actualizados R7 campos.
+Asociación de símbolos R7 actualizada de  a /6a5a40b3-a864-4d1e-a5b4-cd6512e8113c.
+Nombre de hoja R13 actualizado a '/'.
+Indicador de referencia cambiado de REF** a R7.
+Añadir R7 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Filtros de huella U10 actualizados a 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'.
+R6 pin 2 conectado a Net-(R6-Pad2).
+Añadir red Net-(R6-Pad2).
+R6 pin 1 conectado a opto1.
+Filtros de huella R6 actualizados a 'R_*'.
+Archivo de hoja R6 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R6 actualizado a '/'.
+Actualizados R6 campos.
+Asociación de símbolos R44 actualizada de  a /0932e37c-b234-44f4-b2fa-eb20a9c0b3d3.
+Indicador de referencia cambiado de REF** a SW1.
+Añadir SW1 (huella 'Button_Switch_THT:SW_PUSH_6mm_H8mm').
+Indicador de referencia cambiado de REF** a U7.
+R44 pin 2 conectado a Net-(U10D-+).
+Añadir red Net-(U10D-+).
+R44 pin 1 conectado a Net-(U7D--).
+Filtros de huella R44 actualizados a 'R_*'.
+Archivo de hoja R44 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R44 actualizado a '/'.
+Actualizados R44 campos.
+Valor SW1 cambiado de SW_PUSH_6mm_H8mm a E stop.
+Valor R44 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R44.
+Valor U7 cambiado de CERDIP-14_W7.62mm_SideBrazed_Socket a TL074.
+Añadir R44 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Asociación de símbolos U7 actualizada de  a /d977afa4-2cbb-463c-af71-3b9ef56791fc.
+Actualizados U7 campos.
+Nombre de hoja U7 actualizado a '/'.
+R43 pin 2 conectado a Net-(U10C-+).
+Archivo de hoja U7 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Añadir red Net-(U10C-+).
+Indicador de referencia cambiado de REF** a SW2.
+SW2 pin 1 conectado a +3.3V.
+U6 pin 1 conectado a Net-(U6A--).
+SW2 pin 2 conectado a DGND.
+SW2 pin 2 conectado a DGND.
+SW2 pin 1 conectado a +3.3V.
+Archivo de hoja SW2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja SW2 actualizado a '/'.
+Actualizados SW2 campos.
+Asociación de símbolos SW2 actualizada de  a /3d964a3b-b389-4951-8bc2-c85026479597.
+Valor SW2 cambiado de SW_PUSH_6mm_H8mm a E stop.
+Filtros de huella U7 actualizados a 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'.
+Añadir SW2 (huella 'Button_Switch_THT:SW_PUSH_6mm_H8mm').
+Añadir U7 (huella 'Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket').
+SW1 pin 2 conectado a DGND.
+SW1 pin 1 conectado a +3.3V.
+SW1 pin 2 conectado a DGND.
+SW1 pin 1 conectado a +3.3V.
+Archivo de hoja SW1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja SW1 actualizado a '/'.
+Actualizados SW1 campos.
+Asociación de símbolos SW1 actualizada de  a /19127cc0-8d4e-4f87-bd07-c313be02bbbc.
+U7 pin 11 conectado a VCC-.
+Asociación de símbolos R42 actualizada de  a /7d4fad7b-bf00-48ae-9406-07be0cd81d51.
+Valor R42 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R42.
+Añadir R42 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+R41 pin 1 conectado a Net-(U4D--).
+R41 pin 2 conectado a Net-(U10A-+).
+Añadir red Net-(U10A-+).
+Filtros de huella R41 actualizados a 'R_*'.
+U7 pin 5 conectado a Net-(U7B-+).
+Archivo de hoja R41 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Actualizados R42 campos.
+Nombre de hoja R41 actualizado a '/'.
+U7 pin 10 conectado a Net-(U7C-+).
+Actualizados R41 campos.
+U7 pin 3 conectado a Net-(U7A-+).
+Asociación de símbolos R41 actualizada de  a /e6e1fb7a-2aa1-43f4-9054-9e0e689e7972.
+U7 pin 1 conectado a Net-(U7A--).
+Valor R41 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+U7 pin 7 conectado a Net-(U7B--).
+Indicador de referencia cambiado de REF** a R41.
+U7 pin 4 conectado a VCC+.
+Valor R43 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+R43 pin 1 conectado a Net-(U6D--).
+U7 pin 6 conectado a Net-(U7B--).
+Filtros de huella R43 actualizados a 'R_*'.
+U7 pin 14 conectado a Net-(U10D-+).
+Archivo de hoja R43 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+U7 pin 9 conectado a Net-(U7C--).
+Nombre de hoja R43 actualizado a '/'.
+U7 pin 12 conectado a AGND_CH4.
+Actualizados R43 campos.
+Asociación de símbolos R43 actualizada de  a /78210dc9-e069-4d65-94fe-17cec9182109.
+U6 pin 8 conectado a Net-(C33-Pad2).
+Indicador de referencia cambiado de REF** a R43.
+Añadir R43 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U7 pin 13 conectado a Net-(U7D--).
+R42 pin 1 conectado a Net-(U5D--).
+R42 pin 2 conectado a Net-(U10B-+).
+Añadir red Net-(U10B-+).
+Filtros de huella R42 actualizados a 'R_*'.
+Archivo de hoja R42 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+U7 pin 2 conectado a Net-(U7A--).
+Nombre de hoja R42 actualizado a '/'.
+Añadir U5 (huella 'Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket').
+U5 pin 9 conectado a Net-(U5C--).
+U5 pin 10 conectado a Net-(U5C-+).
+U6 pin 13 conectado a Net-(U6D--).
+Filtros de huella U5 actualizados a 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'.
+Archivo de hoja U5 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja U5 actualizado a '/'.
+Actualizados U5 campos.
+Asociación de símbolos U5 actualizada de  a /41b43528-84b6-48d6-92ec-2484670aa0b8.
+Valor U5 cambiado de CERDIP-14_W7.62mm_SideBrazed_Socket a TL074.
+Indicador de referencia cambiado de REF** a U5.
+U5 pin 6 conectado a Net-(U5B--).
+U6 pin 2 conectado a Net-(U6A--).
+U4 pin 6 conectado a Net-(U4B--).
+U6 pin 14 conectado a Net-(U10C-+).
+U4 pin 4 conectado a VCC+.
+U4 pin 13 conectado a Net-(U4D--).
+U4 pin 3 conectado a Net-(U4A-+).
+U4 pin 11 conectado a VCC-.
+U4 pin 1 conectado a Net-(U4A--).
+U4 pin 7 conectado a Net-(U4B--).
+U4 pin 8 conectado a Net-(C31-Pad2).
+U5 pin 4 conectado a VCC+.
+Archivo de hoja U6 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja U6 actualizado a '/'.
+U6 pin 4 conectado a VCC+.
+Actualizados U6 campos.
+Asociación de símbolos U6 actualizada de  a /4b719551-c504-409c-beaf-81148904256e.
+Valor U6 cambiado de CERDIP-14_W7.62mm_SideBrazed_Socket a TL074.
+Indicador de referencia cambiado de REF** a U6.
+Añadir U6 (huella 'Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket').
+U6 pin 7 conectado a Net-(U6B--).
+U5 pin 13 conectado a Net-(U5D--).
+U4 pin 14 conectado a Net-(U10A-+).
+U5 pin 12 conectado a AGND_CH2.
+U5 pin 1 conectado a Net-(U5A--).
+U6 pin 6 conectado a Net-(U6B--).
+U5 pin 2 conectado a Net-(U5A--).
+U5 pin 11 conectado a VCC-.
+U5 pin 3 conectado a Net-(U5A-+).
+U5 pin 5 conectado a Net-(U5B-+).
+U5 pin 7 conectado a Net-(U5B--).
+U5 pin 14 conectado a Net-(U10B-+).
+U5 pin 8 conectado a Net-(C32-Pad2).
+U1 pin 2 conectado a GND_motor.
+Nombre de hoja U2 actualizado a '/'.
+U6 pin 3 conectado a Net-(U6A-+).
+Actualizados U2 campos.
+Asociación de símbolos U2 actualizada de  a /41da7e45-3103-431a-ba5a-3159cfe47f7f.
+Valor U2 cambiado de DIP-4_W7.62mm a PC817.
+Indicador de referencia cambiado de REF** a U2.
+Añadir U2 (huella 'Package_DIP:DIP-4_W7.62mm').
+U6 pin 12 conectado a AGND_CH3.
+U1 pin 1 conectado a Net-(R6-Pad2).
+U1 pin 4 conectado a +10V.
+Archivo de hoja U2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+U1 pin 3 conectado a Net-(R8-Pad1).
+U6 pin 9 conectado a Net-(U6C--).
+Filtros de huella U1 actualizados a 'DIP*W7.62mm*'.
+Archivo de hoja U1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja U1 actualizado a '/'.
+Actualizados U1 campos.
+Asociación de símbolos U1 actualizada de  a /61426a07-1dbc-4630-a057-5e12cba3848d.
+Valor U1 cambiado de DIP-4_W7.62mm a PC817.
+Indicador de referencia cambiado de REF** a U1.
+Añadir U1 (huella 'Package_DIP:DIP-4_W7.62mm').
+Asociación de símbolos U4 actualizada de  a /d89b6bd4-a6ff-403c-9bc3-13006617f032.
+U4 pin 5 conectado a Net-(U4B-+).
+U4 pin 9 conectado a Net-(U4C--).
+U6 pin 5 conectado a Net-(U6B-+).
+U4 pin 2 conectado a Net-(U4A--).
+U4 pin 12 conectado a AGND_CH1.
+U4 pin 10 conectado a Net-(U4C-+).
+Filtros de huella U4 actualizados a 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'.
+Archivo de hoja U4 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja U4 actualizado a '/'.
+Actualizados U4 campos.
+Añadir R41 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Valor U4 cambiado de CERDIP-14_W7.62mm_SideBrazed_Socket a TL074.
+Indicador de referencia cambiado de REF** a U4.
+Añadir U4 (huella 'Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket').
+U6 pin 11 conectado a VCC-.
+U6 pin 10 conectado a Net-(U6C-+).
+U2 pin 2 conectado a GND_motor.
+U2 pin 4 conectado a +10V.
+U2 pin 1 conectado a Net-(R7-Pad2).
+U2 pin 3 conectado a Net-(R9-Pad1).
+Filtros de huella U2 actualizados a 'DIP*W7.62mm*'.
+Archivo de hoja R31 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Actualizados R32 campos.
+Asociación de símbolos R32 actualizada de  a /03306174-342b-4a58-bd60-0b7e7d9058ce.
+Valor R32 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R32.
+Añadir R32 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U8 pin 3 conectado a AGND_READ.
+R31 pin 2 conectado a Net-(U6C-+).
+Añadir red Net-(U6C-+).
+R31 pin 1 conectado a AGND_CH3.
+Filtros de huella R31 actualizados a 'R_*'.
+Nombre de hoja R32 actualizado a '/'.
+Nombre de hoja R31 actualizado a '/'.
+U8 pin 2 conectado a Net-(U8--).
+Actualizados R31 campos.
+Asociación de símbolos R31 actualizada de  a /417eb2d7-2995-4ec3-b4db-e948e00c6bf8.
+Valor R31 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R31.
+Añadir R31 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U8 pin 6 conectado a signal_out.
+R30 pin 2 conectado a Net-(U5C-+).
+Añadir red Net-(U5C-+).
+Actualizados R33 campos.
+Valor R34 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R34.
+Añadir R34 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir red unconnected-(U8-NULL-Pad5).
+R33 pin 2 conectado a Net-(C31-Pad2).
+Añadir red Net-(C31-Pad2).
+R33 pin 1 conectado a Net-(U4C--).
+Filtros de huella R33 actualizados a 'R_*'.
+Archivo de hoja R33 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R33 actualizado a '/'.
+R30 pin 1 conectado a AGND_CH2.
+Asociación de símbolos R33 actualizada de  a /649da6b6-f567-473c-a624-b8063c32aae9.
+Valor R33 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R33.
+Añadir R33 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U8 pin 5 conectado a unconnected-(U8-NULL-Pad5).
+R32 pin 1 conectado a AGND_CH4.
+R32 pin 2 conectado a Net-(U7C-+).
+Añadir red Net-(U7C-+).
+Filtros de huella R32 actualizados a 'R_*'.
+Archivo de hoja R32 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Añadir R28 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+R28 pin 2 conectado a Net-(U7C--).
+R28 pin 1 conectado a Net-(U7A--).
+Añadir red Net-(U7A--).
+Filtros de huella R28 actualizados a 'R_*'.
+Archivo de hoja R28 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R28 actualizado a '/'.
+Actualizados R28 campos.
+Asociación de símbolos R28 actualizada de  a /ae16e9b8-ea69-49c9-a369-842a7b31b012.
+Valor R28 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 500k.
+Indicador de referencia cambiado de REF** a R28.
+Indicador de referencia cambiado de REF** a U9.
+Valor U9 cambiado de CERDIP-8_W7.62mm_SideBrazed_Socket a TL071.
+R27 pin 2 conectado a Net-(U7C--).
+Añadir red Net-(U7C--).
+R27 pin 1 conectado a Net-(U7B--).
+Añadir red Net-(U7B--).
+Filtros de huella R27 actualizados a 'R_*'.
+Filtros de huella U6 actualizados a 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'.
+Nombre de hoja R27 actualizado a '/'.
+Actualizados R27 campos.
+Asociación de símbolos R27 actualizada de  a /18a258dc-a574-45f2-afd8-6b0c0e00d985.
+R29 pin 2 conectado a Net-(U4C-+).
+Filtros de huella R30 actualizados a 'R_*'.
+Archivo de hoja R30 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R30 actualizado a '/'.
+Actualizados R30 campos.
+Asociación de símbolos R30 actualizada de  a /7698ca09-260c-40ea-b3a7-ea13d2c3f1ed.
+Valor R30 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R30.
+U8 pin 4 conectado a Net-(U8-V-).
+Añadir R30 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+R29 pin 1 conectado a AGND_CH1.
+Asociación de símbolos R34 actualizada de  a /621b9b14-acdc-4860-a295-81c9c90c4729.
+Añadir red Net-(U4C-+).
+Filtros de huella R29 actualizados a 'R_*'.
+Archivo de hoja R29 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R29 actualizado a '/'.
+Actualizados R29 campos.
+Asociación de símbolos R29 actualizada de  a /144a329f-6cb6-4a44-8c8e-5797207355fd.
+Valor R29 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R29.
+Añadir R29 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir U9 (huella 'Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket').
+Nombre de hoja R38 actualizado a '/'.
+Valor R39 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Valor U8 cambiado de CERDIP-8_W7.62mm_SideBrazed_Socket a TL071.
+Indicador de referencia cambiado de REF** a R39.
+Añadir R39 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Asociación de símbolos U8 actualizada de  a /9db2e1ed-c5a7-40d5-a049-8acf2b4bfe87.
+R38 pin 2 conectado a Net-(U5D--).
+Añadir red Net-(U5D--).
+R38 pin 1 conectado a Net-(C32-Pad2).
+Filtros de huella R38 actualizados a 'R_*'.
+Archivo de hoja R38 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Asociación de símbolos R39 actualizada de  a /2e464b3f-a61f-4e54-b0dc-ecc609eb3cab.
+Actualizados R38 campos.
+Actualizados U8 campos.
+Asociación de símbolos R38 actualizada de  a /33032496-2aca-4610-8b11-98b27fdcc98b.
+Valor R38 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R38.
+Añadir R38 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Nombre de hoja U8 actualizado a '/'.
+R37 pin 1 conectado a Net-(C31-Pad2).
+R37 pin 2 conectado a Net-(U4D--).
+Añadir red Net-(U4D--).
+Valor R40 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+U7 pin 8 conectado a Net-(C34-Pad2).
+Añadir U8 (huella 'Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket').
+R40 pin 2 conectado a Net-(U7D--).
+Añadir red Net-(U7D--).
+R40 pin 1 conectado a Net-(C34-Pad2).
+Filtros de huella R40 actualizados a 'R_*'.
+Archivo de hoja R40 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R40 actualizado a '/'.
+Actualizados R40 campos.
+Asociación de símbolos R40 actualizada de  a /162b26b9-cac1-4c5f-bf40-90774a348dc4.
+Filtros de huella R37 actualizados a 'R_*'.
+Indicador de referencia cambiado de REF** a R40.
+Indicador de referencia cambiado de REF** a U8.
+Añadir R40 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+R39 pin 1 conectado a Net-(C33-Pad2).
+R39 pin 2 conectado a Net-(U6D--).
+Añadir red Net-(U6D--).
+Filtros de huella R39 actualizados a 'R_*'.
+Archivo de hoja R39 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R39 actualizado a '/'.
+Actualizados R39 campos.
+Indicador de referencia cambiado de REF** a R35.
+R35 pin 1 conectado a Net-(U6C--).
+R35 pin 2 conectado a Net-(C33-Pad2).
+Añadir red Net-(C33-Pad2).
+Filtros de huella R35 actualizados a 'R_*'.
+Archivo de hoja R35 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Añadir red unconnected-(U8-NULL-Pad1).
+Nombre de hoja R35 actualizado a '/'.
+Actualizados R35 campos.
+Asociación de símbolos R35 actualizada de  a /77a3c205-b2a2-4480-8de0-4a16fbace56d.
+Valor R35 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+U8 pin 8 conectado a unconnected-(U8-NC-Pad8).
+Añadir R35 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+U8 pin 1 conectado a unconnected-(U8-NULL-Pad1).
+R34 pin 1 conectado a Net-(U5C--).
+R34 pin 2 conectado a Net-(C32-Pad2).
+Añadir red Net-(C32-Pad2).
+Filtros de huella R34 actualizados a 'R_*'.
+U8 pin 7 conectado a Net-(U8-V+).
+Archivo de hoja R34 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R34 actualizado a '/'.
+Actualizados R34 campos.
+Añadir red Net-(C34-Pad2).
+Archivo de hoja R37 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R37 actualizado a '/'.
+Actualizados R37 campos.
+Archivo de hoja U8 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Asociación de símbolos R37 actualizada de  a /5f7ec37b-e651-477c-97df-7c04fe82e778.
+Valor R37 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R37.
+Añadir R37 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Filtros de huella U8 actualizados a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+R36 pin 2 conectado a Net-(C34-Pad2).
+Valor R27 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+R36 pin 1 conectado a Net-(U7C--).
+Filtros de huella R36 actualizados a 'R_*'.
+Archivo de hoja R36 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja R36 actualizado a '/'.
+Añadir red unconnected-(U8-NC-Pad8).
+Actualizados R36 campos.
+Asociación de símbolos R36 actualizada de  a /ef60e7c8-d813-4b21-b3ef-7a1f2a6bcabc.
+Valor R36 cambiado de R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal a 10k.
+Indicador de referencia cambiado de REF** a R36.
+Añadir R36 (huella 'Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal').
+Añadir C39 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Indicador de referencia cambiado de REF** a C40.
+Añadir C40 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C39 pin 1 conectado a VCC+.
+C39 pin 2 conectado a VCC-.
+Filtros de huella C39 actualizados a 'C_*'.
+Archivo de hoja C39 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C39 actualizado a '/'.
+Actualizados C39 campos.
+Asociación de símbolos C39 actualizada de  a /68994b00-c673-4615-bfca-65d3b6f987d9.
+Valor C39 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C39.
+Valor C40 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+C30 pin 1 conectado a Net-(U9-V-).
+Añadir red Net-(U9-V-).
+C30 pin 2 conectado a AGND_READ.
+Filtros de huella C30 actualizados a 'C_*'.
+Archivo de hoja C30 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C30 actualizado a '/'.
+Actualizados C30 campos.
+Asociación de símbolos C30 actualizada de  a /f71c070b-7d4d-43b6-8f79-8281ff51c294.
+Valor C30 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C30.
+Añadir C30 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Valor C41 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Asociación de símbolos D1 actualizada de  a /698fdcb5-adc5-4085-977c-f2b7ed78c48e.
+Valor D1 cambiado de LED_D5.0mm a rojo.
+Indicador de referencia cambiado de REF** a D1.
+Añadir D1 (huella 'LED_THT:LED_D5.0mm').
+C41 pin 2 conectado a VCC-.
+C41 pin 1 conectado a GND2.
+Filtros de huella C41 actualizados a 'C_*'.
+Archivo de hoja C41 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C41 actualizado a '/'.
+Actualizados C41 campos.
+Asociación de símbolos C41 actualizada de  a /405bd886-6933-48f5-8e44-ce9b076f97ba.
+C29 pin 2 conectado a Net-(U9-V+).
+Indicador de referencia cambiado de REF** a C41.
+Añadir C41 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C40 pin 2 conectado a GND2.
+Añadir red GND2.
+C40 pin 1 conectado a VCC+.
+Filtros de huella C40 actualizados a 'C_*'.
+Archivo de hoja C40 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C40 actualizado a '/'.
+Actualizados C40 campos.
+Asociación de símbolos C40 actualizada de  a /14786a48-d1c4-422e-8b0e-efe07f1a6dbf.
+C18 pin 2 conectado a VCC-.
+C19 pin 1 conectado a AGND_READ.
+Añadir red AGND_READ.
+Filtros de huella C19 actualizados a 'C_*'.
+Archivo de hoja C19 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C19 actualizado a '/'.
+Actualizados C19 campos.
+Asociación de símbolos C19 actualizada de  a /5ff0c987-2b7c-48c3-8932-7f7255779283.
+Valor C19 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C19.
+Añadir C19 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C18 pin 1 conectado a AGND_CH4.
+Añadir red Net-(U8-V+).
+Filtros de huella C18 actualizados a 'C_*'.
+Archivo de hoja C18 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C18 actualizado a '/'.
+Actualizados C18 campos.
+Asociación de símbolos C18 actualizada de  a /f6c9bb7f-3fe6-4e5b-904b-890837c4bfb0.
+Valor C18 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C18.
+Añadir C18 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C17 pin 1 conectado a VCC+.
+C17 pin 2 conectado a AGND_CH4.
+C20 pin 1 conectado a Net-(U8-V-).
+Añadir red Net-(U9-V+).
+C29 pin 1 conectado a AGND_READ.
+Filtros de huella C29 actualizados a 'C_*'.
+Archivo de hoja C29 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C29 actualizado a '/'.
+Actualizados C29 campos.
+Asociación de símbolos C29 actualizada de  a /e79d718d-a8b5-4649-bd00-0dd8b026c85c.
+Valor C29 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C29.
+Añadir C29 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C20 pin 2 conectado a AGND_READ.
+Actualizados D1 campos.
+Añadir red Net-(U8-V-).
+Filtros de huella C20 actualizados a 'C_*'.
+Archivo de hoja C20 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C20 actualizado a '/'.
+Actualizados C20 campos.
+Asociación de símbolos C20 actualizada de  a /eaadec80-3264-4ff1-bad6-fa245e11dff7.
+Valor C20 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C20.
+Añadir C20 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C19 pin 2 conectado a Net-(U8-V+).
+Archivo de hoja J1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+J1 pin 6 conectado a unconnected-(J1-Pin_6-Pad6).
+Añadir red unconnected-(J1-Pin_6-Pad6).
+J1 pin 3 conectado a SCL_esp.
+Añadir red SCL_esp.
+J1 pin 10 conectado a unconnected-(J1-Pin_10-Pad10).
+Añadir red unconnected-(J1-Pin_10-Pad10).
+J1 pin 1 conectado a +3.3V.
+Añadir red +3.3V.
+J1 pin 8 conectado a STAR_GROUND.
+Añadir red STAR_GROUND.
+Filtros de huella J1 actualizados a 'Connector*:*_1x??_*'.
+Añadir red SDA_esp.
+Nombre de hoja J1 actualizado a '/'.
+Actualizados J1 campos.
+Asociación de símbolos J1 actualizada de  a /0a0a038f-a597-4bf5-b2ca-39516ab1ddcf.
+Valor J1 cambiado de PinSocket_1x10_P2.54mm_Vertical a ADS1115.
+Indicador de referencia cambiado de REF** a J1.
+Añadir J1 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical').
+D5 pin 2 conectado a Net-(D5-A).
+Añadir red Net-(D5-A).
+D5 pin 1 conectado a DGND.
+Filtros de huella D5 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Archivo de hoja D5 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Valor J2 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_VBIAS.
+J2 pin 1 conectado a buffer_vbias.
+Añadir red buffer_vbias.
+J2 pin 2 conectado a unconnected-(J2-Pin_2-Pad2).
+Añadir red unconnected-(J2-Pin_2-Pad2).
+J2 pin 6 conectado a DGND.
+J2 pin 4 conectado a SDA_esp.
+Filtros de huella J2 actualizados a 'Connector*:*_1x??_*'.
+Nombre de hoja Q5 actualizado a '/'.
+Nombre de hoja J2 actualizado a '/'.
+Actualizados J2 campos.
+Asociación de símbolos J2 actualizada de  a /e45cf2ba-1d49-4a6f-aa04-fffc99ae3785.
+Nombre de hoja D5 actualizado a '/'.
+Indicador de referencia cambiado de REF** a J2.
+Añadir J2 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J1 pin 5 conectado a unconnected-(J1-Pin_5-Pad5).
+Añadir red unconnected-(J1-Pin_5-Pad5).
+J1 pin 2 conectado a DGND.
+J1 pin 7 conectado a signal_in.
+Añadir red signal_in.
+J1 pin 9 conectado a unconnected-(J1-Pin_9-Pad9).
+Añadir red unconnected-(J1-Pin_9-Pad9).
+J1 pin 4 conectado a SDA_esp.
+Asociación de símbolos D2 actualizada de  a /5bab4cf8-b74a-428b-bd66-1f5f6e52e95b.
+Asociación de símbolos D3 actualizada de  a /65685032-b5b8-4d27-8d3f-e2bc0cb63695.
+Valor D3 cambiado de LED_D5.0mm a verde.
+Indicador de referencia cambiado de REF** a D3.
+Añadir D3 (huella 'LED_THT:LED_D5.0mm').
+D2 pin 2 conectado a Net-(D2-A).
+Añadir red Net-(D2-A).
+D2 pin 1 conectado a DGND.
+Filtros de huella D2 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Archivo de hoja D2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja D2 actualizado a '/'.
+Actualizados D2 campos.
+Actualizados D3 campos.
+Valor D2 cambiado de LED_D5.0mm a amarillo.
+Indicador de referencia cambiado de REF** a D2.
+Añadir D2 (huella 'LED_THT:LED_D5.0mm').
+D1 pin 1 conectado a DGND.
+Añadir red DGND.
+D1 pin 2 conectado a Net-(D1-A).
+Añadir red Net-(D1-A).
+Filtros de huella D1 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Archivo de hoja D1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja D1 actualizado a '/'.
+Actualizados D4 campos.
+Actualizados D5 campos.
+Asociación de símbolos D5 actualizada de  a /69ed72ec-ada4-4734-a4b3-218124b5358f.
+Valor D5 cambiado de LED_D5.0mm a azul.
+Indicador de referencia cambiado de REF** a D5.
+Añadir D5 (huella 'LED_THT:LED_D5.0mm').
+D4 pin 1 conectado a DGND.
+D4 pin 2 conectado a Net-(D4-A).
+Añadir red Net-(D4-A).
+Filtros de huella D4 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Archivo de hoja D4 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja D4 actualizado a '/'.
+Filtros de huella C17 actualizados a 'C_*'.
+Asociación de símbolos D4 actualizada de  a /a6278e45-9ddd-4c2e-929a-c12907fd5586.
+Valor D4 cambiado de LED_D5.0mm a blanco.
+Indicador de referencia cambiado de REF** a D4.
+Añadir D4 (huella 'LED_THT:LED_D5.0mm').
+D3 pin 1 conectado a DGND.
+D3 pin 2 conectado a Net-(D3-A).
+Añadir red Net-(D3-A).
+Filtros de huella D3 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Archivo de hoja D3 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja D3 actualizado a '/'.
+Nombre de hoja C1 actualizado a '/'.
+Actualizados C2 campos.
+Asociación de símbolos C2 actualizada de  a /8ad8781c-4fd8-4554-a1b6-d99030f5c9dd.
+Valor C2 cambiado de CP_Radial_D5.0mm_P2.00mm a 47uF.
+Indicador de referencia cambiado de REF** a C2.
+Añadir C2 (huella 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+C1 pin 1 conectado a F_VCC +17.
+Añadir red F_VCC +17.
+C1 pin 2 conectado a GND3.
+Añadir red GND3.
+Filtros de huella C1 actualizados a 'CP_*'.
+Archivo de hoja C1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C2 actualizado a '/'.
+Actualizados C1 campos.
+Asociación de símbolos C1 actualizada de  a /f0cf9bc5-102f-4a3a-ba15-2e40df8dc08d.
+Valor C1 cambiado de CP_Radial_D5.0mm_P2.00mm a 47uF.
+Indicador de referencia cambiado de REF** a C1.
+Añadir C1 (huella 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+BZ4 pin 2 conectado a AGND_CH4.
+Añadir red AGND_CH4.
+BZ4 pin 1 conectado a Net-(BZ4-+).
+Añadir red Net-(BZ4-+).
+Atributo de fabricación 'excluir de la lista de materiales' BZ4 eliminado.
+Filtros de huella BZ4 actualizados a '*Buzzer*'.
+Nombre de hoja C7 actualizado a '/'.
+Actualizados C8 campos.
+Asociación de símbolos C8 actualizada de  a /db374084-3b96-4ea3-94a3-01c93ca74900.
+Valor C8 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C8.
+Añadir C8 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C7 pin 2 conectado a VCC-.
+Añadir red VCC-.
+C7 pin 1 conectado a VCC+.
+Añadir red VCC+.
+Filtros de huella C7 actualizados a 'C_*'.
+Archivo de hoja C7 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Archivo de hoja BZ4 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Actualizados C7 campos.
+Asociación de símbolos C7 actualizada de  a /9e1a3988-eff3-49e1-99fa-f3b52250a75c.
+Valor C7 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C7.
+Añadir C7 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C2 pin 2 conectado a F_VCC -17.
+Añadir red F_VCC -17.
+C2 pin 1 conectado a GND3.
+Filtros de huella C2 actualizados a 'CP_*'.
+Archivo de hoja C2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+BZ1 pin 2 conectado a AGND_CH1.
+Atributo de fabricación 'excluir de la lista de materiales' BZ2 eliminado.
+Filtros de huella BZ2 actualizados a '*Buzzer*'.
+Archivo de hoja BZ2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja BZ2 actualizado a '/'.
+Actualizados BZ2 campos.
+Asociación de símbolos BZ2 actualizada de  a /86ef33db-9d2f-4741-b04d-abcce2fc5fae.
+Valor BZ2 cambiado de SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x a Buzzer.
+Indicador de referencia cambiado de REF** a BZ2.
+Añadir BZ2 (huella 'Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x').
+BZ1 pin 1 conectado a Net-(BZ1-+).
+Añadir red Net-(BZ1-+).
+Añadir red AGND_CH2.
+Añadir red AGND_CH1.
+Atributo de fabricación 'excluir de la lista de materiales' BZ1 eliminado.
+Filtros de huella BZ1 actualizados a '*Buzzer*'.
+Archivo de hoja BZ1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja BZ1 actualizado a '/'.
+Actualizados BZ1 campos.
+Asociación de símbolos BZ1 actualizada de  a /a1ea1922-2ef3-40a8-a0f3-3cfb937d1810.
+Valor BZ1 cambiado de SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x a Buzzer.
+Indicador de referencia cambiado de REF** a BZ1.
+Añadir BZ1 (huella 'Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x').
+Filtros de huella BZ3 actualizados a '*Buzzer*'.
+Nombre de hoja BZ4 actualizado a '/'.
+Actualizados BZ4 campos.
+Asociación de símbolos BZ4 actualizada de  a /2e1d3642-1a75-4167-8ab7-de905146b51d.
+Valor BZ4 cambiado de SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x a Buzzer.
+Indicador de referencia cambiado de REF** a BZ4.
+Añadir BZ4 (huella 'Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x').
+BZ3 pin 2 conectado a AGND_CH3.
+Añadir red AGND_CH3.
+BZ3 pin 1 conectado a Net-(BZ3-+).
+Añadir red Net-(BZ3-+).
+Atributo de fabricación 'excluir de la lista de materiales' BZ3 eliminado.
+Nombre de hoja C8 actualizado a '/'.
+Archivo de hoja BZ3 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja BZ3 actualizado a '/'.
+Actualizados BZ3 campos.
+Asociación de símbolos BZ3 actualizada de  a /dc453ab0-e115-49f8-8fff-2a6c6612644b.
+Valor BZ3 cambiado de SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x a Buzzer.
+Indicador de referencia cambiado de REF** a BZ3.
+Añadir BZ3 (huella 'Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x').
+BZ2 pin 1 conectado a Net-(BZ2-+).
+Añadir red Net-(BZ2-+).
+BZ2 pin 2 conectado a AGND_CH2.
+Valor C14 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Asociación de símbolos C15 actualizada de  a /d81a1b4d-a8f6-431f-8c2f-090febc5fdc9.
+Valor C15 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C15.
+Añadir C15 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C14 pin 2 conectado a VCC-.
+C14 pin 1 conectado a AGND_CH2.
+Filtros de huella C14 actualizados a 'C_*'.
+Archivo de hoja C14 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C14 actualizado a '/'.
+Actualizados C14 campos.
+Asociación de símbolos C14 actualizada de  a /53b99efa-25f0-4bf7-a7fa-05680134ad4d.
+Actualizados C15 campos.
+Indicador de referencia cambiado de REF** a C14.
+Añadir C14 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C13 pin 1 conectado a VCC+.
+C13 pin 2 conectado a AGND_CH2.
+Filtros de huella C13 actualizados a 'C_*'.
+Archivo de hoja C13 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C13 actualizado a '/'.
+Actualizados C13 campos.
+Asociación de símbolos C13 actualizada de  a /74e0b71c-0f9a-4456-8258-6d7b5190f99d.
+Valor C13 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Nombre de hoja C16 actualizado a '/'.
+Archivo de hoja C17 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C17 actualizado a '/'.
+Actualizados C17 campos.
+Asociación de símbolos C17 actualizada de  a /d13be0d3-aea8-4744-8361-b3cc3f614239.
+Valor C17 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C17.
+Añadir C17 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C16 pin 2 conectado a VCC-.
+C16 pin 1 conectado a AGND_CH3.
+Filtros de huella C16 actualizados a 'C_*'.
+Archivo de hoja C16 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Indicador de referencia cambiado de REF** a C13.
+Actualizados C16 campos.
+Asociación de símbolos C16 actualizada de  a /fab1ddfe-32df-49f2-9a55-1dc4b0730b33.
+Valor C16 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C16.
+Añadir C16 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C15 pin 2 conectado a AGND_CH3.
+C15 pin 1 conectado a VCC+.
+Filtros de huella C15 actualizados a 'C_*'.
+Archivo de hoja C15 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C15 actualizado a '/'.
+Archivo de hoja C9 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Filtros de huella C10 actualizados a 'C_*'.
+Archivo de hoja C10 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C10 actualizado a '/'.
+Actualizados C10 campos.
+Asociación de símbolos C10 actualizada de  a /fa4cca7f-1663-4650-97f8-4e26681fe16b.
+Valor C10 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C10.
+Añadir C10 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C9 pin 1 conectado a VCC+.
+C9 pin 2 conectado a VCC-.
+Filtros de huella C9 actualizados a 'C_*'.
+C10 pin 1 conectado a VCC+.
+Nombre de hoja C9 actualizado a '/'.
+Actualizados C9 campos.
+Asociación de símbolos C9 actualizada de  a /0f727502-9c3c-4cb8-96f4-a2f5992b99af.
+Valor C9 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C9.
+Añadir C9 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C8 pin 1 conectado a VCC+.
+C8 pin 2 conectado a VCC-.
+Filtros de huella C8 actualizados a 'C_*'.
+Archivo de hoja C8 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+C11 pin 2 conectado a AGND_CH1.
+Añadir C13 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C12 pin 2 conectado a VCC-.
+C12 pin 1 conectado a AGND_CH1.
+Filtros de huella C12 actualizados a 'C_*'.
+Archivo de hoja C12 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C12 actualizado a '/'.
+Actualizados C12 campos.
+Asociación de símbolos C12 actualizada de  a /955be8da-1181-4407-beb7-a7983c03cf8b.
+Valor C12 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C12.
+Añadir C12 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Archivo de hoja J2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+C11 pin 1 conectado a VCC+.
+Filtros de huella C11 actualizados a 'C_*'.
+Archivo de hoja C11 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja C11 actualizado a '/'.
+Actualizados C11 campos.
+Asociación de símbolos C11 actualizada de  a /203ba022-2601-4c71-9888-6eaead7cc795.
+Valor C11 cambiado de C_Disc_D5.0mm_W2.5mm_P2.50mm a 100nF.
+Indicador de referencia cambiado de REF** a C11.
+Añadir C11 (huella 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+C10 pin 2 conectado a VCC-.
+Valor J12 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1C.
+Añadir red SDA_coarse_r3.
+J12 pin 2 conectado a unconnected-(J12-Pin_2-Pad2).
+Añadir red unconnected-(J12-Pin_2-Pad2).
+J12 pin 1 conectado a Net-(J12-Pin_1).
+Añadir red Net-(J12-Pin_1).
+J12 pin 5 conectado a +3.3V.
+J12 pin 6 conectado a DGND.
+Filtros de huella J12 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J12 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J12 actualizado a '/'.
+Actualizados J12 campos.
+Asociación de símbolos J12 actualizada de  a /8bab086e-74db-434c-9c2d-f4f1b42a93a0.
+J12 pin 4 conectado a SDA_coarse_r3.
+Indicador de referencia cambiado de REF** a J12.
+Añadir J12 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J11 pin 5 conectado a +3.3V.
+J11 pin 4 conectado a SDA_fine_r2.
+Añadir red SDA_fine_r2.
+J11 pin 6 conectado a DGND.
+J11 pin 3 conectado a SCL_fine_r2.
+Añadir red SCL_fine_r2.
+J11 pin 1 conectado a Net-(J11-Pin_1).
+Añadir red Net-(J11-Pin_1).
+J11 pin 2 conectado a unconnected-(J11-Pin_2-Pad2).
+Añadir red unconnected-(J13-Pin_2-Pad2).
+Valor J14 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1C.
+Indicador de referencia cambiado de REF** a J14.
+Añadir J14 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J13 pin 4 conectado a SDA_fine_r4.
+Añadir red SDA_fine_r4.
+J13 pin 5 conectado a +3.3V.
+J13 pin 1 conectado a Net-(J13-Pin_1).
+Añadir red Net-(J13-Pin_1).
+J13 pin 3 conectado a SCL_fine_r4.
+Añadir red SCL_fine_r4.
+J13 pin 2 conectado a unconnected-(J13-Pin_2-Pad2).
+Añadir red unconnected-(J11-Pin_2-Pad2).
+J13 pin 6 conectado a DGND.
+Filtros de huella J13 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J13 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J13 actualizado a '/'.
+Actualizados J13 campos.
+Asociación de símbolos J13 actualizada de  a /8c711b47-7bad-44c7-857c-a3f25c00020f.
+Valor J13 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1F.
+Indicador de referencia cambiado de REF** a J13.
+Añadir J13 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J12 pin 3 conectado a SCL_coarse_r3.
+Añadir red SCL_coarse_r3.
+Añadir red SDA_coarse_r1.
+Indicador de referencia cambiado de REF** a J10.
+Añadir J10 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J9 pin 5 conectado a +3.3V.
+J9 pin 3 conectado a SCL_coarse_r1.
+Añadir red SCL_coarse_r1.
+J9 pin 2 conectado a unconnected-(J9-Pin_2-Pad2).
+Añadir red unconnected-(J9-Pin_2-Pad2).
+J9 pin 1 conectado a Net-(J9-Pin_1).
+Añadir red Net-(J9-Pin_1).
+J9 pin 6 conectado a DGND.
+J9 pin 4 conectado a SDA_coarse_r1.
+Valor J10 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1C.
+Filtros de huella J9 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J9 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J9 actualizado a '/'.
+Actualizados J9 campos.
+Asociación de símbolos J9 actualizada de  a /92cd5352-b22c-48e6-befd-742b264d78b8.
+Valor J9 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1C.
+Indicador de referencia cambiado de REF** a J9.
+Añadir J9 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J8 pin 6 conectado a unconnected-(J8-Pin_6-Pad6).
+Añadir red unconnected-(J8-Pin_6-Pad6).
+J2 pin 5 conectado a +3.3V.
+Añadir red unconnected-(J10-Pin_2-Pad2).
+Filtros de huella J11 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J11 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J11 actualizado a '/'.
+Actualizados J11 campos.
+Asociación de símbolos J11 actualizada de  a /8902f823-0d41-42de-99c5-50d54e909d38.
+Valor J11 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1F.
+Indicador de referencia cambiado de REF** a J11.
+Añadir J11 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J10 pin 4 conectado a SDA_coarse_r2.
+Añadir red SDA_coarse_r2.
+J10 pin 2 conectado a unconnected-(J10-Pin_2-Pad2).
+Asociación de símbolos J14 actualizada de  a /e8845316-fc3d-4560-b66f-4e9808768caa.
+J10 pin 5 conectado a +3.3V.
+J10 pin 6 conectado a DGND.
+J10 pin 3 conectado a SCL_coarse_r2.
+Añadir red SCL_coarse_r2.
+J10 pin 1 conectado a Net-(J10-Pin_1).
+Añadir red Net-(J10-Pin_1).
+Filtros de huella J10 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J10 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J10 actualizado a '/'.
+Actualizados J10 campos.
+Asociación de símbolos J10 actualizada de  a /7af89e32-b1dd-490a-bc4e-36c9ea5de9e2.
+Indicador de referencia cambiado de REF** a Q2.
+Asociación de símbolos Q3 actualizada de  a /94c09d7b-f786-498a-a058-5e0603e0919f.
+Valor Q3 cambiado de TO-92_Inline a 2N3904.
+Indicador de referencia cambiado de REF** a Q3.
+Añadir Q3 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+Q2 pin 2 conectado a Net-(Q1-B).
+Q2 pin 3 conectado a VCC-.
+Filtros de huella Q2 actualizados a 'TO?92*'.
+Archivo de hoja Q2 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja Q2 actualizado a '/'.
+Actualizados Q2 campos.
+Asociación de símbolos Q2 actualizada de  a /1a57216c-41ac-43b1-98bb-7ce2d5c7a284.
+Valor Q2 cambiado de TO-92_Inline a 2N3906.
+Actualizados Q3 campos.
+Añadir Q2 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+Q1 pin 3 conectado a VCC+.
+Q1 pin 2 conectado a Net-(Q1-B).
+Añadir red Net-(Q1-B).
+Q1 pin 1 conectado a Net-(BZ1-+).
+Filtros de huella Q1 actualizados a 'TO?92*'.
+Archivo de hoja Q1 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja Q1 actualizado a '/'.
+Actualizados Q1 campos.
+Asociación de símbolos Q1 actualizada de  a /a097ebd4-ffef-4122-8722-fe9e5eb70c28.
+Valor Q1 cambiado de TO-92_Inline a 2N3904.
+Actualizados Q4 campos.
+Actualizados Q5 campos.
+Asociación de símbolos Q5 actualizada de  a /b0bad3d4-9ebc-448b-b808-88d81f3e74a3.
+Valor Q5 cambiado de TO-92_Inline a 2N3904.
+Indicador de referencia cambiado de REF** a Q5.
+Añadir Q5 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+Q4 pin 1 conectado a Net-(BZ2-+).
+Q4 pin 3 conectado a VCC-.
+Q4 pin 2 conectado a Net-(Q3-B).
+Filtros de huella Q4 actualizados a 'TO?92*'.
+Archivo de hoja Q4 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja Q4 actualizado a '/'.
+Indicador de referencia cambiado de REF** a Q1.
+Asociación de símbolos Q4 actualizada de  a /5d061f35-4ec3-4947-b221-b45654cdc55a.
+Valor Q4 cambiado de TO-92_Inline a 2N3906.
+Indicador de referencia cambiado de REF** a Q4.
+Añadir Q4 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+Q3 pin 2 conectado a Net-(Q3-B).
+Añadir red Net-(Q3-B).
+Q3 pin 3 conectado a VCC+.
+Q3 pin 1 conectado a Net-(BZ2-+).
+Filtros de huella Q3 actualizados a 'TO?92*'.
+Archivo de hoja Q3 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja Q3 actualizado a '/'.
+J14 pin 3 conectado a SCL_coarse_r1.
+Añadir red SDA_fine_r1.
+J15 pin 1 conectado a Net-(J15-Pin_1).
+Añadir red Net-(J15-Pin_1).
+Filtros de huella J15 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J15 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J15 actualizado a '/'.
+Actualizados J15 campos.
+Asociación de símbolos J15 actualizada de  a /145a5d33-c285-44b4-8e56-b76cefa3ee45.
+Valor J15 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1F.
+Indicador de referencia cambiado de REF** a J15.
+Añadir J15 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J15 pin 4 conectado a SDA_fine_r1.
+J14 pin 6 conectado a DGND.
+J14 pin 2 conectado a unconnected-(J14-Pin_2-Pad2).
+Añadir red unconnected-(J14-Pin_2-Pad2).
+J14 pin 1 conectado a Net-(J14-Pin_1).
+Añadir red Net-(J14-Pin_1).
+J14 pin 5 conectado a +3.3V.
+J14 pin 4 conectado a SDA_coarse_r1.
+Filtros de huella J14 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J14 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J14 actualizado a '/'.
+Actualizados J14 campos.
+Nombre de hoja J16 actualizado a '/'.
+Añadir Q1 (huella 'Package_TO_SOT_THT:TO-92_Inline').
+J16 pin 2 conectado a unconnected-(J16-Pin_2-Pad2).
+Añadir red unconnected-(J16-Pin_2-Pad2).
+J16 pin 4 conectado a SDA_fine_r1.
+J16 pin 6 conectado a DGND.
+J16 pin 5 conectado a +3.3V.
+J16 pin 3 conectado a SCL_fine_r1.
+J16 pin 1 conectado a Net-(J16-Pin_1).
+Añadir red Net-(J16-Pin_1).
+Filtros de huella J16 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J16 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+J8 pin 2 conectado a Net-(J8-Pin_2).
+Actualizados J16 campos.
+Asociación de símbolos J16 actualizada de  a /72429418-25b7-4eb6-ab4c-d55824474bc2.
+Valor J16 cambiado de PinSocket_1x06_P2.54mm_Vertical a MCP4725_1F.
+Indicador de referencia cambiado de REF** a J16.
+Añadir J16 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J15 pin 3 conectado a SCL_fine_r1.
+Añadir red SCL_fine_r1.
+J15 pin 2 conectado a unconnected-(J15-Pin_2-Pad2).
+Añadir red unconnected-(J15-Pin_2-Pad2).
+J15 pin 5 conectado a +3.3V.
+J15 pin 6 conectado a DGND.
+Añadir red unconnected-(J5-Pin_5-Pad5).
+Añadir red SD_coarse_r3.
+J5 pin 7 conectado a unconnected-(J5-Pin_7-Pad7).
+Añadir red unconnected-(J5-Pin_7-Pad7).
+J5 pin 6 conectado a unconnected-(J5-Pin_6-Pad6).
+Añadir red unconnected-(J5-Pin_6-Pad6).
+J5 pin 8 conectado a unconnected-(J5-Pin_8-Pad8).
+Añadir red unconnected-(J5-Pin_8-Pad8).
+J5 pin 2 conectado a SC_fine_r3.
+Añadir red SC_fine_r3.
+J5 pin 3 conectado a SD_coarse_r4.
+Añadir red SD_coarse_r4.
+J5 pin 5 conectado a unconnected-(J5-Pin_5-Pad5).
+J5 pin 1 conectado a SD_coarse_r3.
+J5 pin 12 conectado a unconnected-(J5-Pin_12-Pad12).
+Añadir red unconnected-(J5-Pin_12-Pad12).
+J5 pin 4 conectado a SC_fine_r4.
+Añadir red SC_fine_r4.
+J5 pin 10 conectado a unconnected-(J5-Pin_10-Pad10).
+Añadir red unconnected-(J5-Pin_10-Pad10).
+J5 pin 11 conectado a unconnected-(J5-Pin_11-Pad11).
+Añadir red unconnected-(J5-Pin_11-Pad11).
+Filtros de huella J5 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J5 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J5 actualizado a '/'.
+J6 pin 11 conectado a Net-(J6-Pin_11).
+J6 pin 1 conectado a +3.3V.
+J6 pin 6 conectado a unconnected-(J6-Pin_6-Pad6).
+Añadir red unconnected-(J6-Pin_6-Pad6).
+J6 pin 7 conectado a Net-(J6-Pin_7).
+Añadir red Net-(J6-Pin_7).
+J6 pin 17 conectado a unconnected-(J6-Pin_17-Pad17).
+Añadir red unconnected-(J6-Pin_17-Pad17).
+J6 pin 10 conectado a +3.3V.
+J6 pin 9 conectado a +3.3V.
+J6 pin 13 conectado a opto1.
+Añadir red opto1.
+Actualizados J5 campos.
+Añadir red Net-(J6-Pin_11).
+Filtros de huella J6 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J6 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J6 actualizado a '/'.
+Actualizados J6 campos.
+Asociación de símbolos J6 actualizada de  a /6f3f412f-fad0-4cde-9438-310d357dd23f.
+Valor J6 cambiado de PinSocket_1x19_P2.54mm_Vertical a espL_1-19.
+Indicador de referencia cambiado de REF** a J6.
+Añadir J6 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical').
+J5 pin 9 conectado a unconnected-(J5-Pin_9-Pad9).
+Añadir red unconnected-(J5-Pin_9-Pad9).
+Añadir red fc_03_A0_esp.
+Filtros de huella J4 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J4 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J4 actualizado a '/'.
+Actualizados J4 campos.
+Asociación de símbolos J4 actualizada de  a /8f232d92-0a6d-484c-9e14-cbe926dbfc59.
+Valor J4 cambiado de PinSocket_1x12_P2.54mm_Vertical a muxL_1-12.
+Indicador de referencia cambiado de REF** a J4.
+Añadir J4 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical').
+J3 pin 3 conectado a unconnected-(J3-Pin_3-Pad3).
+Añadir red unconnected-(J3-Pin_3-Pad3).
+J3 pin 4 conectado a fc_03_A0_esp.
+Añadir red SC_fine_r1.
+J3 pin 2 conectado a DGND.
+J3 pin 1 conectado a +3.3V.
+Filtros de huella J3 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J3 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J3 actualizado a '/'.
+Actualizados J3 campos.
+Asociación de símbolos J3 actualizada de  a /fa5aa2b4-6734-4321-b774-3a5533c5cdc5.
+Valor J3 cambiado de PinSocket_1x04_P2.54mm_Vertical a FC03.
+Indicador de referencia cambiado de REF** a J3.
+Añadir J3 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical').
+J2 pin 3 conectado a SCL_esp.
+J4 pin 5 conectado a unconnected-(J4-Pin_5-Pad5).
+Asociación de símbolos J5 actualizada de  a /e1e63675-1f08-4975-8949-d925c9a2c110.
+Valor J5 cambiado de PinSocket_1x12_P2.54mm_Vertical a muxR_13-24.
+Indicador de referencia cambiado de REF** a J5.
+Añadir J5 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical').
+J4 pin 4 conectado a SCL_esp.
+J4 pin 9 conectado a SD_coarse_r1.
+Añadir red SD_coarse_r1.
+J4 pin 1 conectado a +3.3V.
+J4 pin 2 conectado a DGND.
+J4 pin 11 conectado a SD_coarse_r2.
+Añadir red SD_coarse_r2.
+Añadir red unconnected-(J6-Pin_5-Pad5).
+Añadir red unconnected-(J4-Pin_5-Pad5).
+J4 pin 8 conectado a unconnected-(J4-Pin_8-Pad8).
+Añadir red unconnected-(J4-Pin_8-Pad8).
+J4 pin 7 conectado a unconnected-(J4-Pin_7-Pad7).
+Añadir red unconnected-(J4-Pin_7-Pad7).
+J4 pin 3 conectado a SDA_esp.
+J4 pin 12 conectado a SC_fine_r2.
+Añadir red SC_fine_r2.
+J4 pin 6 conectado a unconnected-(J4-Pin_6-Pad6).
+Añadir red unconnected-(J4-Pin_6-Pad6).
+J4 pin 10 conectado a SC_fine_r1.
+Añadir red unconnected-(J7-Pin_4-Pad4).
+Añadir red unconnected-(J7-Pin_18-Pad18).
+J7 pin 9 conectado a unconnected-(J7-Pin_9-Pad9).
+Añadir red unconnected-(J7-Pin_9-Pad9).
+J7 pin 15 conectado a unconnected-(J7-Pin_15-Pad15).
+Añadir red unconnected-(J7-Pin_15-Pad15).
+J7 pin 11 conectado a unconnected-(J7-Pin_11-Pad11).
+Añadir red unconnected-(J7-Pin_11-Pad11).
+J7 pin 6 conectado a unconnected-(J7-Pin_6-Pad6).
+Añadir red unconnected-(J7-Pin_6-Pad6).
+J7 pin 4 conectado a unconnected-(J7-Pin_4-Pad4).
+J7 pin 18 conectado a unconnected-(J7-Pin_18-Pad18).
+J7 pin 3 conectado a SCL_esp.
+J7 pin 13 conectado a unconnected-(J7-Pin_13-Pad13).
+Añadir red unconnected-(J7-Pin_13-Pad13).
+J7 pin 2 conectado a Net-(J7-Pin_2).
+Añadir red Net-(J7-Pin_2).
+J7 pin 5 conectado a SDA_esp.
+Añadir red Net-(J8-Pin_2).
+J7 pin 17 conectado a unconnected-(J7-Pin_17-Pad17).
+Añadir red unconnected-(J7-Pin_17-Pad17).
+J7 pin 12 conectado a unconnected-(J7-Pin_12-Pad12).
+Nombre de hoja J8 actualizado a '/'.
+J8 pin 1 conectado a Net-(J8-Pin_1).
+Añadir red Net-(J8-Pin_1).
+J8 pin 4 conectado a GND_motor.
+Añadir red GND_motor.
+J8 pin 5 conectado a unconnected-(J8-Pin_5-Pad5).
+Añadir red unconnected-(J8-Pin_5-Pad5).
+J8 pin 3 conectado a +10V.
+Añadir red +10V.
+Filtros de huella J8 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J8 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+J7 pin 1 conectado a DGND.
+Actualizados J8 campos.
+Asociación de símbolos J8 actualizada de  a /d930ac8a-dc70-416d-b690-410b2a2c3f0a.
+Valor J8 cambiado de PinSocket_1x06_P2.54mm_Vertical a Driver_motor.
+Indicador de referencia cambiado de REF** a J8.
+Añadir J8 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical').
+J7 pin 7 conectado a DGND.
+J7 pin 8 conectado a unconnected-(J7-Pin_8-Pad8).
+Añadir red unconnected-(J7-Pin_8-Pad8).
+J7 pin 10 conectado a unconnected-(J7-Pin_10-Pad10).
+Añadir red unconnected-(J7-Pin_10-Pad10).
+J6 pin 15 conectado a opto2.
+Actualizados J7 campos.
+Asociación de símbolos J7 actualizada de  a /d3598f21-9fe2-4be8-880a-9418d00fb3fd.
+Valor J7 cambiado de PinSocket_1x19_P2.54mm_Vertical a espR_20-38.
+Indicador de referencia cambiado de REF** a J7.
+Añadir J7 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical').
+J6 pin 12 conectado a Net-(J6-Pin_12).
+Añadir red Net-(J6-Pin_12).
+J6 pin 2 conectado a unconnected-(J6-Pin_2-Pad2).
+Añadir red unconnected-(J6-Pin_2-Pad2).
+J6 pin 8 conectado a Net-(J6-Pin_8).
+Añadir red Net-(J6-Pin_8).
+J6 pin 3 conectado a fc03_.
+Añadir red fc03_.
+J7 pin 19 conectado a unconnected-(J7-Pin_19-Pad19).
+Añadir red opto2.
+J6 pin 18 conectado a unconnected-(J6-Pin_18-Pad18).
+Añadir red unconnected-(J6-Pin_18-Pad18).
+J6 pin 16 conectado a unconnected-(J6-Pin_16-Pad16).
+Añadir red unconnected-(J6-Pin_16-Pad16).
+J6 pin 19 conectado a unconnected-(J6-Pin_19-Pad19).
+Añadir red unconnected-(J6-Pin_19-Pad19).
+J6 pin 4 conectado a unconnected-(J6-Pin_4-Pad4).
+Añadir red unconnected-(J6-Pin_4-Pad4).
+J6 pin 14 conectado a unconnected-(J6-Pin_14-Pad14).
+Añadir red unconnected-(J6-Pin_14-Pad14).
+J6 pin 5 conectado a unconnected-(J6-Pin_5-Pad5).
+J7 pin 14 conectado a unconnected-(J7-Pin_14-Pad14).
+Añadir red unconnected-(J7-Pin_12-Pad12).
+Añadir red unconnected-(J7-Pin_19-Pad19).
+J7 pin 16 conectado a unconnected-(J7-Pin_16-Pad16).
+Añadir red unconnected-(J7-Pin_16-Pad16).
+Añadir red unconnected-(J7-Pin_14-Pad14).
+Filtros de huella J7 actualizados a 'Connector*:*_1x??_*'.
+Archivo de hoja J7 actualizado a 'bufferx2_suma_amplificador_.kicad_sch'.
+Nombre de hoja J7 actualizado a '/'.
+Error: No puede añadirse C35 (no se ha asignado huella).
+Error: No puede añadirse C22 (no se ha asignado huella).
+Error: No puede añadirse C23 (no se ha asignado huella).
+Error: No puede añadirse C24 (no se ha asignado huella).
+Error: No puede añadirse C25 (no se ha asignado huella).
+Error: No puede añadirse C31 (no se ha asignado huella).
+Error: No puede añadirse C32 (no se ha asignado huella).
+Error: No puede añadirse C33 (no se ha asignado huella).
+Error: No puede añadirse C34 (no se ha asignado huella).
+Error: No puede añadirse C28 (no se ha asignado huella).
+Error: No puede añadirse C36 (no se ha asignado huella).
+Error: No puede añadirse C37 (no se ha asignado huella).
+Error: No puede añadirse C38 (no se ha asignado huella).
+Error: No puede añadirse C21 (no se ha asignado huella).
+Error: No puede añadirse C26 (no se ha asignado huella).
+Error: No puede añadirse C27 (no se ha asignado huella).
+Error: No puede añadirse U3 (no se ha asignado huella).
+
+
+Info: Número de avisos: 0, errores: 17.

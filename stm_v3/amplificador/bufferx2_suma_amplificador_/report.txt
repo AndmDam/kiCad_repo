@@ -1,0 +1,266 @@
+Info: Procesando el símbolo 'R29:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R32:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J3:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J4:Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R31:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J5:Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J6:Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right'.
+Info: Procesando el símbolo 'R30:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J7:Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right'.
+Info: Procesando el símbolo 'J8:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J2:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J9:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J10:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R28:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J11:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J12:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R27:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J13:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J14:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'D1:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'C35:'.
+Info: Procesando el símbolo 'C36:'.
+Info: Procesando el símbolo 'R38:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C37:'.
+Info: Procesando el símbolo 'C38:'.
+Info: Procesando el símbolo 'R37:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C39:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C40:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C41:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'R26:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R35:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D2:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'D3:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R34:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'D4:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'D5:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R33:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'J1:Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R9:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R3:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R20:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R4:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R5:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R19:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R6:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R7:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R18:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R8:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R17:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R10:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R11:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R16:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R12:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R13:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R15:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R14:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'J15:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J16:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'BZ1:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'R25:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'R24:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R36:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q5:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'R23:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q6:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'Q7:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'R22:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'Q8:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R21:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C16:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C10:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C11:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U5:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C12:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C13:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U4:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C14:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U3:'.
+Info: Procesando el símbolo 'C15:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U6:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'U2:Package_DIP:DIP-4_W7.62mm'.
+Info: Procesando el símbolo 'C17:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C18:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U1:Package_DIP:DIP-4_W7.62mm'.
+Info: Procesando el símbolo 'C19:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C20:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'SW2:Button_Switch_THT:SW_PUSH_6mm_H8mm'.
+Info: Procesando el símbolo 'C21:'.
+Info: Procesando el símbolo 'U9:Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket'.
+Info: Número de avisos: 0, errores: 20.
+Info: Procesando el símbolo 'BZ2:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'BZ3:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'BZ4:Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x'.
+Info: Procesando el símbolo 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Procesando el símbolo 'U10:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C2:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Procesando el símbolo 'C3:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C34:'.
+Info: Procesando el símbolo 'C4:'.
+Info: Procesando el símbolo 'C5:'.
+Info: Procesando el símbolo 'U8:Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C6:'.
+Info: Procesando el símbolo 'C7:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'U7:Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket'.
+Info: Procesando el símbolo 'C8:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C9:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'R39:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C30:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'C29:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Procesando el símbolo 'R42:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R41:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C28:'.
+Info: Procesando el símbolo 'C31:'.
+Info: Procesando el símbolo 'C27:'.
+Info: Procesando el símbolo 'R43:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C26:'.
+Info: Procesando el símbolo 'C32:'.
+Info: Procesando el símbolo 'C25:'.
+Info: Procesando el símbolo 'R40:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'R44:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal'.
+Info: Procesando el símbolo 'C24:'.
+Info: Procesando el símbolo 'C22:'.
+Info: Procesando el símbolo 'SW1:Button_Switch_THT:SW_PUSH_6mm_H8mm'.
+Info: Procesando el símbolo 'C23:'.
+Info: Procesando el símbolo 'C33:'.
+Añadir U8 (huella «Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket»).
+Añadir U7 (huella «Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket»).
+Añadir R20 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R22 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir U10 (huella «Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket»).
+Añadir J16 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir R38 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+
+Añadir R19 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R15 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R17 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R36 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R16 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R37 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R18 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R40 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir U9 (huella «Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket»).
+Añadir R39 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+
+Añadir R43 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R29 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R30 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir SW2 (huella «Button_Switch_THT:SW_PUSH_6mm_H8mm»).
+Añadir R28 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R44 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R27 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir U1 (huella «Package_DIP:DIP-4_W7.62mm»).
+Añadir R31 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R26 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir U2 (huella «Package_DIP:DIP-4_W7.62mm»).
+Añadir R25 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R32 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R35 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir U4 (huella «Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket»).
+Añadir R24 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R33 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R42 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R23 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir U5 (huella «Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket»).
+Añadir R34 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir SW1 (huella «Button_Switch_THT:SW_PUSH_6mm_H8mm»).
+Añadir U6 (huella «Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket»).
+Añadir R21 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R41 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir C41 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C17 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C18 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C19 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C20 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C29 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C30 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir R14 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir C40 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C16 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir D1 (huella «LED_THT:LED_D5.0mm»).
+Añadir D2 (huella «LED_THT:LED_D5.0mm»).
+Añadir D3 (huella «LED_THT:LED_D5.0mm»).
+Añadir D4 (huella «LED_THT:LED_D5.0mm»).
+Añadir D5 (huella «LED_THT:LED_D5.0mm»).
+Añadir J1 (huella «Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical»).
+Añadir J2 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir C8 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir BZ1 (huella «Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x»).
+Añadir BZ2 (huella «Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x»).
+Añadir BZ3 (huella «Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x»).
+Añadir BZ4 (huella «Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief2x»).
+Añadir C1 (huella «Capacitor_THT:CP_Radial_D5.0mm_P2.00mm»).
+Añadir C2 (huella «Capacitor_THT:CP_Radial_D5.0mm_P2.00mm»).
+Añadir C3 (huella «Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket»).
+Añadir C7 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C39 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C9 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C10 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C11 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C12 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C13 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C14 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir C15 (huella «Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm»).
+Añadir R3 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir Q1 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q2 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q3 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q4 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q5 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q6 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q7 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir Q8 (huella «Package_TO_SOT_THT:TO-92_Inline»).
+Añadir R1 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R2 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir J4 (huella «Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical»).
+Añadir R4 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R5 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R6 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R7 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R8 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R9 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R10 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R11 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R12 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir R13 (huella «Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal»).
+Añadir J3 (huella «Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical»).
+Añadir J13 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J12 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J11 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J14 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J15 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J10 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J9 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J8 (huella «Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical»).
+Añadir J7 (huella «Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right»).
+Añadir J6 (huella «Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right»).
+Añadir J5 (huella «Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical»).
+Error: No puede añadirse C4 (no se ha asignado huella).
+Error: No puede añadirse C5 (no se ha asignado huella).
+Error: No puede añadirse C6 (no se ha asignado huella).
+Error: No puede añadirse C36 (no se ha asignado huella).
+Error: No puede añadirse C38 (no se ha asignado huella).
+Error: No puede añadirse C37 (no se ha asignado huella).
+Error: No puede añadirse C27 (no se ha asignado huella).
+Error: No puede añadirse C35 (no se ha asignado huella).
+Error: No puede añadirse U3 (no se ha asignado huella).
+Error: No puede añadirse C34 (no se ha asignado huella).
+Error: No puede añadirse C33 (no se ha asignado huella).
+Error: No puede añadirse C32 (no se ha asignado huella).
+Error: No puede añadirse C31 (no se ha asignado huella).
+Error: No puede añadirse C28 (no se ha asignado huella).
+Error: No puede añadirse C21 (no se ha asignado huella).
+Error: No puede añadirse C22 (no se ha asignado huella).
+Error: No puede añadirse C23 (no se ha asignado huella).
+Error: No puede añadirse C24 (no se ha asignado huella).
+Error: No puede añadirse C25 (no se ha asignado huella).
+Error: No puede añadirse C26 (no se ha asignado huella).
+
+
+Info: Número de avisos: 0, errores: 20.
