@@ -7558,7 +7558,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 209.55) (xy 30.48 203.2)
+			(xy 29.21 209.55) (xy 29.21 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8518,7 +8518,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 209.55) (xy 30.48 209.55)
+			(xy 33.02 209.55) (xy 29.21 209.55)
 		)
 		(stroke
 			(width 0)
@@ -13238,7 +13238,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 203.2) (xy 33.02 203.2)
+			(xy 29.21 203.2) (xy 33.02 203.2)
 		)
 		(stroke
 			(width 0)
@@ -13902,7 +13902,7 @@
 	)
 	(global_label "general_gnd"
 		(shape input)
-		(at 30.48 203.2 180)
+		(at 29.21 203.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13912,7 +13912,7 @@
 		)
 		(uuid "2f338ae6-3bfc-4ca8-9e73-3c2b07f2ec3e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.0046 203.2 0)
+			(at 14.7346 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
