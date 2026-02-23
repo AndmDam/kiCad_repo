@@ -1,59 +1,59 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"BZ1","1","Buzzer_r1","","","","Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief","~"
-"BZ2","1","Buzzer_r2","","","","Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief","~"
-"BZ3","1","Buzzer_r3","","","","Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief","~"
-"BZ4","1","Buzzer_r4","","","","Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief","~"
-"C1,C2","2","47uF","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~"
-"C3","1","4.7uF","","Excluido del BOM","Excluido de la placa","Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket","~"
-"C4,C5","2","100nF","","Excluido del BOM","Excluido de la placa","","~"
-"C6","1","4.7uF","","Excluido del BOM","Excluido de la placa","","~"
-"C7,C8,C9,C10","4","100nF","","","","Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm","~"
-"C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C29,C30,C39,C40,C41","15","100nF","","","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm","~"
-"C21,C22,C23,C24,C25,C26,C27,C28","8","3.3uF","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~"
-"C31,C32,C33,C34,C35,C36,C37,C38","8","1nF","","","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm","~"
-"C42","1","10uF","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~"
-"C43","1","100nF","","","Excluido de la placa","","~"
-"D1","1","rojo","","","","LED_THT:LED_D5.0mm","~"
-"D2","1","amarillo","","","","LED_THT:LED_D5.0mm","~"
-"D3","1","verde","","","","LED_THT:LED_D5.0mm","~"
-"D4","1","blanco","","","","LED_THT:LED_D5.0mm","~"
-"D5","1","azul","","","","LED_THT:LED_D5.0mm","~"
-"J1","1","ADS1115","","","","Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical","~"
-"J2","1","MCP4725_VBIAS","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J3","1","FC03","","","","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","~"
-"J4","1","muxL_1-12","","","","Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical","~"
-"J5","1","muxR_13-24","","","","Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical","~"
-"J6","1","espL_1-19","","","","Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical","~"
-"J7","1","espR_20-38","","","","Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical","~"
-"J8","1","Driver_motor","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J9","1","MCP4725_1C","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J10","1","MCP4725_2C","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J11","1","MCP4725_2F","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J12","1","MCP4725_3C","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J13","1","MCP4725_3F","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J14","1","MCP4725_4C","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J15","1","MCP4725_4F","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J16","1","MCP4725_1F","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
-"J17","1","Voltages_input","","","","TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm","~"
-"J18","1","Sample","","","","Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief","~"
-"J19","1","signal_in","","","","Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief","~"
-"J20","1","VCCMotor_01x02","","","","TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm","~"
-"Q1,Q3,Q5,Q7","4","2N3904","","","","Package_TO_SOT_THT:TO-92_Inline","https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-"Q2,Q4,Q6,Q8","4","2N3906","","","","Package_TO_SOT_THT:TO-92_Inline","https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"
-"R1,R2,R6,R7,R45,R46","6","220","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R3","1","150","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R4,R5,R47,R48,R49,R50","6","100","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R8,R9,R13,R14,R15,R16,R17,R18,R19,R20","10","1k","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R10","1","100M","","Excluido del BOM","Excluido de la placa","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R11","1","220k","","Excluido del BOM","Excluido de la placa","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R12","1","47k","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R21,R23,R25,R27","4","10k","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
-"R22,R24,R26,R28","4","500k","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40","12","10k","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"R41,R42,R43,R44","4","51k","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
-"SW1","1","E stop","","","","Button_Switch_THT:SW_PUSH_6mm_H8mm","~"
-"SW2","1","Retraction","","","","Button_Switch_THT:SW_PUSH_6mm_H8mm","~"
-"U1,U2","2","PC817","","","","Package_DIP:DIP-4_W7.62mm","http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
-"U3","1","OPA124U","","","Excluido de la placa","","http://www.ti.com/lit/ds/symlink/opa134.pdf"
-"U4,U5,U6,U7,U10","5","TL074","","","","Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket","http://www.ti.com/lit/ds/symlink/tl071.pdf"
-"U8,U9","2","TL071","","","","Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket","http://www.ti.com/lit/ds/symlink/tl071.pdf"
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+BZ1,1,Buzzer_r1,,,,Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief,~
+BZ2,1,Buzzer_r2,,,,Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief,~
+BZ3,1,Buzzer_r3,,,,Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief,~
+BZ4,1,Buzzer_r4,,,,Connector_Wire:SolderWire-0.15sqmm_1x02_P4mm_D0.5mm_OD1.5mm_Relief,~
+"C1,C2",2,47uF,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~
+C3,1,4.7uF,,Excluido del BOM,Excluido de la placa,Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket,~
+"C4,C5",2,100nF,,Excluido del BOM,Excluido de la placa,,~
+C6,1,4.7uF,,Excluido del BOM,Excluido de la placa,,~
+"C7,C8,C9,C10",4,100nF,,,,Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm,~
+"C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C29,C30,C39,C40,C41",15,100nF,,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+"C21,C22,C23,C24,C25,C26,C27,C28",8,3.3uF,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~
+"C31,C32,C33,C34,C35,C36,C37,C38",8,1nF,,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+C42,1,10uF,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~
+C43,1,100nF,,,Excluido de la placa,,~
+D1,1,rojo,,,,LED_THT:LED_D5.0mm,~
+D2,1,amarillo,,,,LED_THT:LED_D5.0mm,~
+D3,1,verde,,,,LED_THT:LED_D5.0mm,~
+D4,1,blanco,,,,LED_THT:LED_D5.0mm,~
+D5,1,azul,,,,LED_THT:LED_D5.0mm,~
+J1,1,ADS1115,,,,Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical,~
+J2,1,MCP4725_VBIAS,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J3,1,FC03,,,,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,~
+J4,1,muxL_1-12,,,,Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical,~
+J5,1,muxR_13-24,,,,Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical,~
+J6,1,espL_1-19,,,,Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical,~
+J7,1,espR_20-38,,,,Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical,~
+J8,1,Driver_motor,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J9,1,MCP4725_1C,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J10,1,MCP4725_2C,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J11,1,MCP4725_2F,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J12,1,MCP4725_3C,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J13,1,MCP4725_3F,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J14,1,MCP4725_4C,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J15,1,MCP4725_4F,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J16,1,MCP4725_1F,,,,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,~
+J17,1,Voltages_input,,,,TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm,~
+J18,1,Sample,,,,Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief,~
+J19,1,signal_in,,,,Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief,~
+J20,1,VCCMotor_01x02,,,,TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm,~
+"Q1,Q3,Q5,Q7",4,2N3904,,,,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+"Q2,Q4,Q6,Q8",4,2N3906,,,,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3906-D.PDF
+"R1,R2,R6,R7,R45,R46",6,220,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+R3,1,150,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+"R4,R5,R47,R48,R49,R50",6,100,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+"R8,R9,R13,R14,R15,R16,R17,R18,R19,R20",10,1k,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+R10,1,100M,,Excluido del BOM,Excluido de la placa,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+R11,1,220k,,Excluido del BOM,Excluido de la placa,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+R12,1,47k,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+"R21,R23,R25,R27",4,10k,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+"R22,R24,R26,R28",4,500k,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+"R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40",12,10k,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+"R41,R42,R43,R44",4,51k,,,,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~
+SW1,1,E stop,,,,Button_Switch_THT:SW_PUSH_6mm_H8mm,~
+SW2,1,Retraction,,,,Button_Switch_THT:SW_PUSH_6mm_H8mm,~
+"U1,U2",2,PC817,,,,Package_DIP:DIP-4_W7.62mm,http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+U3,1,OPA124U,,,Excluido de la placa,,http://www.ti.com/lit/ds/symlink/opa134.pdf
+"U4,U5,U6,U7,U10",5,TL074,,,,Package_DIP:CERDIP-14_W7.62mm_SideBrazed_Socket,http://www.ti.com/lit/ds/symlink/tl071.pdf
+"U8,U9",2,TL071,,,,Package_DIP:CERDIP-8_W7.62mm_SideBrazed_Socket,http://www.ti.com/lit/ds/symlink/tl071.pdf
