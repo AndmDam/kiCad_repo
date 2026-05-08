@@ -6423,7 +6423,7 @@
 		(uuid 57a6f20a-d370-4242-840f-a84e64b7f3ed)
 	)
 	(rectangle
-		(start 186.69 231.14)
+		(start 185.42 231.14)
 		(end 231.14 280.67)
 		(stroke
 			(width 0)
@@ -6568,7 +6568,7 @@
 	)
 	(text "reductor_inversor_"
 		(exclude_from_sim no)
-		(at 192.278 230.378 0)
+		(at 194.056 230.378 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6597,7 +6597,7 @@
 		(uuid "f1f0acd0-55d7-402c-9c7f-40b197b812d1")
 	)
 	(junction
-		(at 57.15 203.2)
+		(at 64.77 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0248c94b-cf26-423d-beac-e843b116b98c")
@@ -6723,7 +6723,7 @@
 		(uuid "2aeca52c-4302-4544-bfad-f63e57fbf58f")
 	)
 	(junction
-		(at 33.02 203.2)
+		(at 40.64 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b0f5041-f434-49c7-8c6b-32eb37f6f4fa")
@@ -6759,7 +6759,7 @@
 		(uuid "2d346938-99b1-4fcd-8569-c1313f27ab98")
 	)
 	(junction
-		(at 45.72 203.2)
+		(at 53.34 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e40a148-4174-41f7-a53b-aa83f4fcaadb")
@@ -6861,7 +6861,7 @@
 		(uuid "5a1082ab-28ea-417d-bb42-2e8ccb9cddfa")
 	)
 	(junction
-		(at 68.58 203.2)
+		(at 76.2 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6134bb07-b55b-4210-8515-35bc4a30876a")
@@ -7107,13 +7107,13 @@
 		(uuid "ae0ba540-4556-4783-94d9-5dd94e5dae2a")
 	)
 	(junction
-		(at 33.02 209.55)
+		(at 40.64 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aed545d2-6722-4e75-a1ad-b62f2fce760e")
 	)
 	(junction
-		(at 57.15 209.55)
+		(at 64.77 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af2c0954-4042-464f-86ce-43d8c4378635")
@@ -7173,7 +7173,7 @@
 		(uuid "cdcb8161-235f-454a-918a-65ac4c52606d")
 	)
 	(junction
-		(at 68.58 209.55)
+		(at 76.2 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cffe5a9b-30f9-4435-82d0-fe3b3c33faf8")
@@ -7341,7 +7341,7 @@
 		(uuid "f3590213-e277-4527-b66d-7133828e8641")
 	)
 	(junction
-		(at 45.72 209.55)
+		(at 53.34 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4d8d3fa-dfc6-46d3-926e-492948a8c4e1")
@@ -7558,7 +7558,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 209.55) (xy 29.21 203.2)
+			(xy 36.83 209.55) (xy 36.83 203.2)
 		)
 		(stroke
 			(width 0)
@@ -7718,7 +7718,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 210.82) (xy 57.15 209.55)
+			(xy 64.77 210.82) (xy 64.77 209.55)
 		)
 		(stroke
 			(width 0)
@@ -7978,7 +7978,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 204.47) (xy 80.01 203.2)
+			(xy 87.63 204.47) (xy 87.63 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8078,7 +8078,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 204.47) (xy 68.58 203.2)
+			(xy 76.2 204.47) (xy 76.2 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8518,7 +8518,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 209.55) (xy 29.21 209.55)
+			(xy 40.64 209.55) (xy 36.83 209.55)
 		)
 		(stroke
 			(width 0)
@@ -8698,7 +8698,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 210.82) (xy 33.02 209.55)
+			(xy 40.64 210.82) (xy 40.64 209.55)
 		)
 		(stroke
 			(width 0)
@@ -8708,7 +8708,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 209.55) (xy 45.72 209.55)
+			(xy 40.64 209.55) (xy 53.34 209.55)
 		)
 		(stroke
 			(width 0)
@@ -8748,7 +8748,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 209.55) (xy 80.01 210.82)
+			(xy 87.63 209.55) (xy 87.63 210.82)
 		)
 		(stroke
 			(width 0)
@@ -8878,7 +8878,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 210.82) (xy 68.58 209.55)
+			(xy 76.2 210.82) (xy 76.2 209.55)
 		)
 		(stroke
 			(width 0)
@@ -9378,7 +9378,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 204.47) (xy 45.72 203.2)
+			(xy 53.34 204.47) (xy 53.34 203.2)
 		)
 		(stroke
 			(width 0)
@@ -9838,7 +9838,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 209.55) (xy 68.58 209.55)
+			(xy 64.77 209.55) (xy 76.2 209.55)
 		)
 		(stroke
 			(width 0)
@@ -9858,7 +9858,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 209.55) (xy 57.15 209.55)
+			(xy 53.34 209.55) (xy 64.77 209.55)
 		)
 		(stroke
 			(width 0)
@@ -10218,7 +10218,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 203.2) (xy 80.01 203.2)
+			(xy 76.2 203.2) (xy 87.63 203.2)
 		)
 		(stroke
 			(width 0)
@@ -10238,7 +10238,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 210.82) (xy 45.72 209.55)
+			(xy 53.34 210.82) (xy 53.34 209.55)
 		)
 		(stroke
 			(width 0)
@@ -11178,7 +11178,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 204.47) (xy 57.15 203.2)
+			(xy 64.77 204.47) (xy 64.77 203.2)
 		)
 		(stroke
 			(width 0)
@@ -11428,7 +11428,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 203.2) (xy 45.72 203.2)
+			(xy 40.64 203.2) (xy 53.34 203.2)
 		)
 		(stroke
 			(width 0)
@@ -12218,7 +12218,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 209.55) (xy 80.01 209.55)
+			(xy 76.2 209.55) (xy 87.63 209.55)
 		)
 		(stroke
 			(width 0)
@@ -12288,7 +12288,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 203.2) (xy 68.58 203.2)
+			(xy 64.77 203.2) (xy 76.2 203.2)
 		)
 		(stroke
 			(width 0)
@@ -12708,7 +12708,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 203.2) (xy 57.15 203.2)
+			(xy 53.34 203.2) (xy 64.77 203.2)
 		)
 		(stroke
 			(width 0)
@@ -12718,7 +12718,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 204.47) (xy 33.02 203.2)
+			(xy 40.64 204.47) (xy 40.64 203.2)
 		)
 		(stroke
 			(width 0)
@@ -13238,7 +13238,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 203.2) (xy 33.02 203.2)
+			(xy 36.83 203.2) (xy 40.64 203.2)
 		)
 		(stroke
 			(width 0)
@@ -13902,7 +13902,7 @@
 	)
 	(global_label "general_gnd"
 		(shape input)
-		(at 29.21 203.2 180)
+		(at 36.83 203.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13912,7 +13912,7 @@
 		)
 		(uuid "2f338ae6-3bfc-4ca8-9e73-3c2b07f2ec3e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.7346 203.2 0)
+			(at 22.3546 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15553,7 +15553,7 @@
 			(uuid "dc5b319d-8ab1-4b46-923b-ab7f4112353a")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U10")
 					(unit 1)
@@ -16249,7 +16249,7 @@
 			(uuid "dc5b319d-8ab1-4b46-923b-ab7f4112353b")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U10")
 					(unit 3)
@@ -16343,7 +16343,7 @@
 			(uuid "2ef8e78d-01aa-4379-83ad-3edc46421191")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J1")
 					(unit 1)
@@ -16992,7 +16992,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 57.15 210.82 0)
+		(at 64.77 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17000,7 +17000,7 @@
 		(dnp no)
 		(uuid "133692d7-9152-4c0e-b6d6-34ca8e08fb2d")
 		(property "Reference" "#PWR086"
-			(at 57.15 217.17 0)
+			(at 64.77 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17009,7 +17009,7 @@
 			)
 		)
 		(property "Value" "AGND_BZ"
-			(at 62.23 211.074 0)
+			(at 69.85 211.074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17017,7 +17017,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 210.82 0)
+			(at 64.77 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17026,7 +17026,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 210.82 0)
+			(at 64.77 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17035,7 +17035,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 57.15 210.82 0)
+			(at 64.77 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17178,7 +17178,7 @@
 			(uuid "6cde9a49-248c-45aa-ad83-2b0ba9741901")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "#PWR012")
 					(unit 1)
@@ -17596,7 +17596,7 @@
 			(uuid "4d5255be-ad34-493a-bc48-51effca7c431")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "#PWR08")
 					(unit 1)
@@ -18060,7 +18060,7 @@
 			(uuid "3ee19d17-0f2e-4e65-bc08-4973314fb537")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "Q2")
 					(unit 1)
@@ -18268,7 +18268,7 @@
 			(uuid "ea44b27a-371b-422c-afb1-3ba541f93592")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U4")
 					(unit 4)
@@ -18374,7 +18374,7 @@
 			(uuid "dc5b319d-8ab1-4b46-923b-ab7f4112353c")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U10")
 					(unit 5)
@@ -18724,7 +18724,7 @@
 			(uuid "cbc19637-b0a1-43b3-a2f9-a5cad4909724")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U3")
 					(unit 1)
@@ -18789,7 +18789,7 @@
 			(uuid "8c02bf46-e1e7-4212-b4fb-1c2af556af75")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "#PWR050")
 					(unit 1)
@@ -18884,7 +18884,7 @@
 			)
 		)
 		(property "Value" "AGND_READ"
-			(at 197.612 248.92 0)
+			(at 194.564 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19618,7 +19618,7 @@
 			)
 		)
 		(property "Value" "AGND_READ"
-			(at 251.714 251.714 0)
+			(at 249.174 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20637,7 +20637,7 @@
 			(uuid "a72bb548-a616-45a4-99ea-6bb8bb570c5c")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "#PWR019")
 					(unit 1)
@@ -20836,7 +20836,7 @@
 			(uuid "63e91753-6165-44db-91cd-bfcbdf8f4dc4")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J18")
 					(unit 1)
@@ -21163,7 +21163,7 @@
 			(uuid "efdbc7ad-eed8-437c-b642-7667fd5f2ac1")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "#PWR06")
 					(unit 1)
@@ -21802,7 +21802,7 @@
 			(uuid "dc5b319d-8ab1-4b46-923b-ab7f4112353d")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U10")
 					(unit 2)
@@ -22581,7 +22581,7 @@
 			(uuid "94e6fc3f-5f8c-4d63-9b8c-7f79eec2da1e")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U1")
 					(unit 1)
@@ -22848,7 +22848,7 @@
 			(uuid "cdce0c1b-b9c8-493b-955d-d8786839eba1")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "R5")
 					(unit 1)
@@ -22858,7 +22858,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 33.02 204.47 0)
+		(at 40.64 204.47 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22867,7 +22867,7 @@
 		(dnp no)
 		(uuid "63697ff7-6e77-4d9c-89ee-9ed8b4e30c25")
 		(property "Reference" "#PWR085"
-			(at 33.02 210.82 0)
+			(at 40.64 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22876,7 +22876,7 @@
 			)
 		)
 		(property "Value" "AGND_READ"
-			(at 38.862 204.724 0)
+			(at 46.482 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22884,7 +22884,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 204.47 0)
+			(at 40.64 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22893,7 +22893,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 204.47 0)
+			(at 40.64 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22902,7 +22902,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 33.02 204.47 0)
+			(at 40.64 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23343,7 +23343,7 @@
 			(uuid "85ccb54e-b8b4-4c86-aa65-dbcbb66bc220")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "D5")
 					(unit 1)
@@ -23582,7 +23582,7 @@
 			(uuid "ea44b27a-371b-422c-afb1-3ba541f93599")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U4")
 					(unit 5)
@@ -23903,7 +23903,7 @@
 			(uuid "8ea5281e-3c1d-41c8-8921-869dc7e426cb")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J6")
 					(unit 1)
@@ -24182,7 +24182,7 @@
 			(uuid "fe4c7146-9593-48b4-b31c-b288ab0bda73")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "R47")
 					(unit 1)
@@ -25358,7 +25358,7 @@
 			)
 		)
 		(property "Value" "100M"
-			(at 151.13 260.35 0)
+			(at 153.416 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25400,7 +25400,7 @@
 			(uuid "16877698-8022-4562-bd09-9c9dad19bbbb")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "R10")
 					(unit 1)
@@ -26208,7 +26208,7 @@
 			)
 		)
 		(property "Value" "VCCMotor_01x02"
-			(at 40.64 252.73 90)
+			(at 40.386 254.762 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26249,7 +26249,7 @@
 			(uuid "691c1736-de10-493d-8907-95181dc55200")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J20")
 					(unit 1)
@@ -26348,7 +26348,7 @@
 			(uuid "78e83751-1243-4878-8b5c-25734e4e1678")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J4")
 					(unit 1)
@@ -26562,7 +26562,7 @@
 			(uuid "b0e6702b-9a7d-4073-b79d-e384a3dc816e")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J9")
 					(unit 1)
@@ -26572,7 +26572,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 80.01 210.82 0)
+		(at 87.63 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26580,7 +26580,7 @@
 		(dnp no)
 		(uuid "93521e4c-987a-420f-aaef-2be1d3c8869b")
 		(property "Reference" "#PWR089"
-			(at 80.01 217.17 0)
+			(at 87.63 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26589,7 +26589,7 @@
 			)
 		)
 		(property "Value" "GND2"
-			(at 83.058 211.328 0)
+			(at 90.678 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26597,7 +26597,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 210.82 0)
+			(at 87.63 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26606,7 +26606,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 210.82 0)
+			(at 87.63 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26615,7 +26615,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 80.01 210.82 0)
+			(at 87.63 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26968,7 +26968,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 68.58 204.47 0)
+		(at 76.2 204.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26976,7 +26976,7 @@
 		(dnp no)
 		(uuid "94c88c8c-3dc9-4984-b3d5-1ec0a940b1e2")
 		(property "Reference" "#PWR082"
-			(at 68.58 210.82 0)
+			(at 76.2 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26985,7 +26985,7 @@
 			)
 		)
 		(property "Value" "AGND_CH2"
-			(at 73.66 204.978 0)
+			(at 81.28 204.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26993,7 +26993,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 204.47 0)
+			(at 76.2 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27002,7 +27002,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 204.47 0)
+			(at 76.2 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27011,7 +27011,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 68.58 204.47 0)
+			(at 76.2 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27313,7 +27313,7 @@
 			(uuid "9c8ac105-e004-406c-b640-af569b1249da")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U8")
 					(unit 1)
@@ -27382,7 +27382,7 @@
 			(uuid "9a64b5f7-f4e7-4bf8-aa18-1b96ab5ffb88")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "C7")
 					(unit 1)
@@ -27516,7 +27516,7 @@
 			(uuid "8497b4aa-82c9-4996-9dea-ab396fb230ff")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "#PWR07")
 					(unit 1)
@@ -27609,7 +27609,7 @@
 			(uuid "6fd1e2eb-2bb0-48f6-80b3-4361d5358793")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "Q1")
 					(unit 1)
@@ -27619,7 +27619,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 80.01 204.47 0)
+		(at 87.63 204.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27627,7 +27627,7 @@
 		(dnp no)
 		(uuid "a1326650-0841-477b-92b6-86e5a78d5c63")
 		(property "Reference" "#PWR081"
-			(at 80.01 210.82 0)
+			(at 87.63 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27636,7 +27636,7 @@
 			)
 		)
 		(property "Value" "AGND_CH3"
-			(at 85.09 204.978 0)
+			(at 92.71 204.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27644,7 +27644,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 204.47 0)
+			(at 87.63 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27653,7 +27653,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 204.47 0)
+			(at 87.63 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27662,7 +27662,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 80.01 204.47 0)
+			(at 87.63 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27810,7 +27810,7 @@
 			(uuid "f30db448-ef51-4d6c-a988-821672934eac")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "BZ1")
 					(unit 1)
@@ -28078,7 +28078,7 @@
 			(uuid "2ea891d2-4d4e-418e-80d5-3505973acf91")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "R14")
 					(unit 1)
@@ -28344,7 +28344,7 @@
 		(dnp no)
 		(uuid "ab025279-acc2-433b-a715-6a5dbefd2969")
 		(property "Reference" "C43"
-			(at 57.15 275.082 0)
+			(at 54.864 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29100,7 +29100,7 @@
 			(uuid "092c2147-329f-4008-bc1e-58a2d495f007")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J17")
 					(unit 1)
@@ -29633,7 +29633,7 @@
 			(uuid "2414b6ff-7567-480f-bb10-450a5abd4c61")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J19")
 					(unit 1)
@@ -30071,7 +30071,7 @@
 			(uuid "dc5b319d-8ab1-4b46-923b-ab7f4112353e")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U10")
 					(unit 4)
@@ -30999,7 +30999,7 @@
 			(uuid "ea44b27a-371b-422c-afb1-3ba541f9359f")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "U4")
 					(unit 3)
@@ -31080,7 +31080,7 @@
 			(uuid "ee75fa9f-f9cd-4534-949d-211c25b310a7")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J8")
 					(unit 1)
@@ -31398,7 +31398,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 57.15 204.47 0)
+		(at 64.77 204.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31406,7 +31406,7 @@
 		(dnp no)
 		(uuid "de19a664-2284-4c08-88e0-31a4b7b42c9d")
 		(property "Reference" "#PWR083"
-			(at 57.15 210.82 0)
+			(at 64.77 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31415,7 +31415,7 @@
 			)
 		)
 		(property "Value" "AGND_CH1"
-			(at 62.23 204.978 0)
+			(at 69.85 204.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31423,7 +31423,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 204.47 0)
+			(at 64.77 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31432,7 +31432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 204.47 0)
+			(at 64.77 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31441,7 +31441,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 57.15 204.47 0)
+			(at 64.77 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31909,7 +31909,7 @@
 			(uuid "61badc60-f7b5-4c09-a216-84425f60f563")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "R11")
 					(unit 1)
@@ -32216,7 +32216,7 @@
 	)
 	(symbol
 		(lib_id "power:GND1")
-		(at 45.72 210.82 0)
+		(at 53.34 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32224,7 +32224,7 @@
 		(dnp no)
 		(uuid "e8c41a87-f23c-41c7-9f95-4beac2c3308f")
 		(property "Reference" "#PWR071"
-			(at 45.72 217.17 0)
+			(at 53.34 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32233,7 +32233,7 @@
 			)
 		)
 		(property "Value" "DGND"
-			(at 48.26 211.328 0)
+			(at 55.88 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32241,7 +32241,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 210.82 0)
+			(at 53.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32250,7 +32250,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 210.82 0)
+			(at 53.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32259,7 +32259,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND1\" , ground"
-			(at 45.72 210.82 0)
+			(at 53.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32613,7 +32613,7 @@
 	)
 	(symbol
 		(lib_id "power:GND3")
-		(at 68.58 210.82 0)
+		(at 76.2 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32621,7 +32621,7 @@
 		(dnp no)
 		(uuid "f0211660-36ed-4d9e-943a-ec2733ac5d43")
 		(property "Reference" "#PWR088"
-			(at 68.58 217.17 0)
+			(at 76.2 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32630,7 +32630,7 @@
 			)
 		)
 		(property "Value" "GND3"
-			(at 71.374 211.328 0)
+			(at 78.994 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32638,7 +32638,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 210.82 0)
+			(at 76.2 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32647,7 +32647,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 210.82 0)
+			(at 76.2 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32656,7 +32656,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND3\" , ground"
-			(at 68.58 210.82 0)
+			(at 76.2 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32804,7 +32804,7 @@
 			(uuid "f4873b1f-04ab-4de4-bedf-90f0c21c4fb6")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "R6")
 					(unit 1)
@@ -33014,7 +33014,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 33.02 210.82 0)
+		(at 40.64 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33022,7 +33022,7 @@
 		(dnp no)
 		(uuid "f5a707e2-bec1-4117-a822-295f599b3157")
 		(property "Reference" "#PWR080"
-			(at 33.02 217.17 0)
+			(at 40.64 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33031,7 +33031,7 @@
 			)
 		)
 		(property "Value" "AGND_CH4"
-			(at 38.1 211.328 0)
+			(at 45.72 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33039,7 +33039,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 210.82 0)
+			(at 40.64 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33048,7 +33048,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 210.82 0)
+			(at 40.64 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33057,7 +33057,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 33.02 210.82 0)
+			(at 40.64 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33519,7 +33519,7 @@
 			(uuid "16a7b1d2-6a68-48b7-8e47-80961fc4d783")
 		)
 		(instances
-			(project ""
+			(project "bufferx2_suma_amplificador_"
 				(path "/71ba16d3-66a4-4488-8914-066912306101"
 					(reference "J3")
 					(unit 1)
@@ -33733,7 +33733,7 @@
 	)
 	(symbol
 		(lib_id "power:GND2")
-		(at 45.72 204.47 0)
+		(at 53.34 204.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33741,7 +33741,7 @@
 		(dnp no)
 		(uuid "ff22d30d-e89d-4dd8-b161-22283b4f677c")
 		(property "Reference" "#PWR084"
-			(at 45.72 210.82 0)
+			(at 53.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33750,7 +33750,7 @@
 			)
 		)
 		(property "Value" "AGND_BZ"
-			(at 50.8 204.724 0)
+			(at 58.42 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33758,7 +33758,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 204.47 0)
+			(at 53.34 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33767,7 +33767,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 204.47 0)
+			(at 53.34 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33776,7 +33776,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-			(at 45.72 204.47 0)
+			(at 53.34 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,1 +1,8 @@
 libraries/
+*-bak
+*.bck
+*.kicad_pr1
+*.kicad_sch-bak
+*.kicad_pcb-bak
+fp-info-cache/
+

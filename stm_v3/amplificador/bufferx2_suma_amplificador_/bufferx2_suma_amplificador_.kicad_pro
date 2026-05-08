@@ -599,7 +599,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "bufferx2_suma_amplificador_.step",
       "svg": "",
       "vrml": ""
     },
